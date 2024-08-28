@@ -4,13 +4,15 @@
 
 Data is the lifeblood of the fantasy sports industry. Unfortunately, when everyone is looking at the same data in the same way, there is little competitive advantage to be gained. In this project, we seek to create a AI model that gathers the relevant publicly-available statistics on players in the European Premier League to create a program that assists fantasy team owners with the creation and season-ling management of their teams.
 
+
 ## Objectives:
     1.	Identify the relevant data sources, connect to their API, and access the relevant statistical data.
     2.	Analyze this data and identify 1-3 ways in which we can combine these statistics to enable novel and proprietary analysis in order to provide a competitive advantage.
     3.	Using these novel analytics, alongside traditional measurements, rank available players by position for draft preparation.
     4.	On an ongoing basis, the model will take in new player data, updated with the most recent match’s stats. Owners will be able to submit their roster, and 
     	the model will provide an analytics-driven lineup for that week’s competition.
-    5.	Provide owners with graph-based data visualizations to support the recommendations.
+  5.	Provide owners with graph-based data visualizations to support the recommendations.
+
 
 ## Key Questions
 	1.	How have owners traditionally used player stats to build their teams? What are the statistics that typically drive these decisions?
