@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Data is the lifeblood of the fantasy sports industry. Unfortunately, when everyone is looking at the same data in the same way, there is little competitive advantage to be gained. In this project, we seek to create a AI model that gathers the relevant publicly-available statistics on players in the Major Leage Soccer league to create a program that assists team “owners” with the creation and season-ling management of their teams.
+Data is the lifeblood of the fantasy sports industry. Unfortunately, when everyone is looking at the same data in the same way, there is little competitive advantage to be gained. In this project, we seek to create a AI model that gathers the relevant publicly-available statistics on players in the European Premier League to create a program that assists fantasy team owners with the creation and season-ling management of their teams.
 
 ## Objectives:
     1.	Identify the relevant data sources, connect to their API, and access the relevant statistical data.
