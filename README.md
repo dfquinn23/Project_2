@@ -18,16 +18,18 @@ Data is the lifeblood of the fantasy sports industry. Unfortunately, when everyo
 4. Can we provide a differentiated product? Is the mousetrap we seek to build actually better?
 
 ## Data Sources
-	TBD
+We are sourcing our data via API from fantasy.premierleague.com - it is the data source for the EPL's Fantasy football league.
+Our secondary source is sorare.com, a website that blends fantasy sports with a live market for trading NFTs (for use in playing fantasy sports)
+
 ## Hypotheses
 1. There non-obvious correlations between player statistics that could lead to novel predictive insights.
 2. We believe that combining multiple machine learning models have the potential to improve prediction accuracy.
 3. Because player valuations in fantasy sports are often driven by individual biases (e.g., recency bias, confirmation bias). By understanding and adjusting for these biases, the AI model can identify undervalued or overvalued players, providing a competitive advantage.
 
 ## Project Timeline
-Wed, 8/28/2024:  Data source exploration, Finalize data sources, Assign data-related tasks
+Wed, 8/28/2024:  Data source exploration, Finalize data sources, Assign data-related tasks, final housekeeping
 Thu, 8/29/2024:  Individual Data Source Exploration, Develop Model Architectural Framework, Begin EDA
-Fri-Tu, 8/30/2024 - 9/3/24:  Continue EDA, Begin Data Cleaning & Preprocessing, Initiate coding
+Fri-Tu, 8/30/2024 - 9/3/24:  Continue EDA, Data Cleaning & Preprocessing, Initiate coding
 Wed, 9/4/2024:	Coding and collaboration
 Thu, 9/5/2024:	Coding and collaboration
 Fri-Sat, 9/6/2024 - 9/7/2024: Everyone wrap tasks for Sunday collaboration
