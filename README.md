@@ -50,18 +50,31 @@ Wed, 9/11/2024:  Project Presentation.
 ## Dependencies
 This project requires Python and the following Python libraries installed:
 	•	import pandas
+ 
 	•	import sklearn libraries
+ 
 	•	import time
+ 
 	•	import requests
+ 
 	•	import os
+ 
 	•	from dotenv import os
+ 
 	•	from dotenv import load_dotenv
+ 
 	•	from pathlib import Path
+ 
 	•	import matplotlib.pyplot
+ 
 	•	import hvplot.pandas
+ 
 	•	import numpy
+ 
 	•	import json
+ 
 	•	from datetime import datetime, timedelta
+ 
 	•	import requests
 
 ## Directory Structure (abbreviated), Installation, and Usage
