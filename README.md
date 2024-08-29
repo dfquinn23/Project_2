@@ -28,14 +28,23 @@ Our secondary source is sorare.com, a website that blends fantasy sports with a 
 
 ## Project Timeline
 Wed, 8/28/2024:  Data source exploration, Finalize data sources, Assign data-related tasks, final housekeeping.
+
 Thu, 8/29/2024:  Individual Data Source Exploration, Develop Model Architectural Framework, Begin EDA.
+
 Fri-Tu, 8/30/2024 - 9/3/24:  Continue EDA, Data Cleaning & Preprocessing, Initiate coding.
+
 Wed, 9/4/2024:	Coding and collaboration.
+
 Thu, 9/5/2024:	Coding and collaboration.
+
 Fri-Sat, 9/6/2024 - 9/7/2024: Everyone wrap tasks for Sunday collaboration.
+
 Sun, 9/8/2024: Collaborate and begin fine-tuning.
+
 Mon, 9/9/2024: Model completed - conduct final testing in class.
+
 Tue, 9/10/2024:	Complete the PowerPoint, Zoom to discuss Presentation.
+
 Wed, 9/11/2024:  Project Presentation.
 
 ## Dependencies
