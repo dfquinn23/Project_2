@@ -1,5 +1,5 @@
 import pandas as pd
-from apiutils import fetch_market_data, extract_hisotry, filter_dataframe
+from apiutils import fetch_market_data, extract_hisotry, filter_dataframe, Timer_Class
 
 all_market_data = fetch_market_data()
 

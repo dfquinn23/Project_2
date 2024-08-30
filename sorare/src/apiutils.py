@@ -4,14 +4,25 @@ import time
 
 from apidata import get_url, get_header, get_query
 
+def timer(func):
+    def wrapper(*args, **kwargs):
+        start = time.time()
+        res = func(*args, **kwargs)
+        end = time.time()
+        total = end - start
+        print(f'\033[95m api call time: {total} \033[0m')
+        return res
+    return wrapper
+
 # External Funtions
 
+@timer
 def fetch_market_data():
     market_data = []
     has_next_page = True
     cursor = ""
     counter = 0
-    max_counter = 250
+    max_counter = 350
 
     while has_next_page:
         query = get_query(cursor)
@@ -35,7 +46,7 @@ def fetch_market_data():
             # print(data['pageInfo']['hasNextPage'])
             # print(f'Counter: {counter}')
             counter += 1
-            if counter > max_counter: has_next_page = False
+            if counter >= max_counter: has_next_page = False
             time.sleep(3) if has_next_page == True else time.sleep(1)
             cursor = response.json()['data']['allCards']['pageInfo']['endCursor']
         else:
@@ -152,3 +163,15 @@ def process_average_price(price_history):
             return total_price / len(price_history)
     else:
         return 0
+
+class Timer_Class:
+    def __enter__(self):
+        self.start = time.time()
+        return self
+    def __exit__(self):
+        self.end = time.time()
+        self.total = self.end - self.start
+        print(f'\033[95m api call time: {self.total} \033[0m')
+
+# with Timer_Class() as tc:
+    #function call
