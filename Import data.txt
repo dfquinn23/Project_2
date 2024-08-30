@@ -1,0 +1,48 @@
+Import data
+
+Exploratory Data Analysis
+
+Clean data / Preprocess (dropna's, get_dummies/OHE, X & y values, split into training & testing
+
+Scale/Encode data, apply to X_test
+
+Create the models
+
+Test models & score each
+
+--------------------------------------
+
+AI- based Fantasy Sports model - the only issue here might be the predictive part of the assignment. We would need to do a regression of performance
+stats, based off of season-to-season performance and/or in-season. Who's getting better?
+
+Look at the universe of available players
+
+Initial ranking on 5 performance statistics
+
+ID the top and bottom 
+
+We might create a bespoke analytics number that combines related stats
+
+Also, what if we incorporate some grouping/clustering y-axis = wins, x-axis = QBR, for example, giving us a sense of how important QBR is to wins
+
+
+
+GhatGPT Column Descriptions - notes/ideas for advanced analytics:
+
+
+dreamteam_count - top 11 players of the week - use that as the y-value and est for multicollinerality in the features to give us a sense of areas of synergy, for lack of a better word?
+
+cost_change cats describe player price fluctuations during the week/season - maybe we can corelate these to other merics to see what things cause prices to rise and fall?
+
+ep_Next & ep_this - expected points a player will score. Test this against actual performance to see if it's accurate
+
+selected_by_percent - popularity of the player across the league. Can test this against performance stats and special- might have recency bias attached to it...
+
+transfers_ - a measure of confidence in players.
+
+There are two measurements that compare a player's price with performance: value_form - current perf; value_season - season-long perf.
+
+The bps (Bonus Point System) is a qualitative-ish measurement of a player's  influence, creativity, & threat. Players are ranked in each of these metrics as well (creativity_rank, influence_rank, threat_rank).
+
+ict_index - a composite of creativity & threat
+
