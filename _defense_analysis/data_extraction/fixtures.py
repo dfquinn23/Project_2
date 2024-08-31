@@ -1,8 +1,9 @@
 import pandas as pd
 import requests
+import os
 
 def fetch_data(url):
-    """Fetches data from the FPL using HTTP GET request."""
+    """Fetches data from the FPL URL using HTTP GET request."""
     try:
         response = requests.get(url)
         response.raise_for_status()  # Raises an HTTPError for bad responses
@@ -11,19 +12,32 @@ def fetch_data(url):
         print(f"Failed to retrieve data from {url}. Error: {e}")
         return None
 
-# Endpoint URL
-base_url = 'https://fantasy.premierleague.com/api/'
-fixtures_url = base_url + 'fixtures/'
+def save_fixtures_data(data, save_dir):
+    """Saves fixture data to the specified directory."""
+    if data:
+        fixtures_df = pd.DataFrame(data)
+        # Create save directory if it doesn't exist
+        os.makedirs(save_dir, exist_ok=True)
+        # Save the fixtures data to a CSV file in the specified directory
+        fixtures_df.to_csv(f'{save_dir}/fixtures.csv', index=False)
+        print(f"Fixtures data saved in {save_dir}")
+    else:
+        print("No fixture data to save.")
 
-# Fetch data
-data = fetch_data(fixtures_url)
+def main():
+    """Main function to fetch and save fixture data."""
+    # Define the base URL for API
+    base_url = 'https://fantasy.premierleague.com/api/'
+    fixtures_url = f"{base_url}fixtures/"
 
-if data:
-    # Convert data to DataFrame
-    fixtures_df = pd.DataFrame(data)
-    
-    # Save DataFrame to CSV
-    fixtures_df.to_csv('../data/fixtures.csv', index=False)
-    print("Data saved to fixtures.csv")
-else:
-    print("No data to save.")
+    # Define save directory for fixtures data
+    save_dir = '../data/raw/gameweeks'
+
+    # Fetch fixtures data
+    data = fetch_data(fixtures_url)
+
+    # Save the fetched data
+    save_fixtures_data(data, save_dir)
+
+if __name__ == "__main__":
+    main()

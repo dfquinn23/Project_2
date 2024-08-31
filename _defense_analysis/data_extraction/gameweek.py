@@ -21,8 +21,7 @@ def save_gameweek_data(gameweek_id, base_url, save_dir):
         gameweek_df = pd.DataFrame(elements)
         
         # Create save directory if it doesn't exist
-        if not os.path.exists(save_dir):
-            os.makedirs(save_dir)
+        os.makedirs(save_dir, exist_ok=True)
         
         gameweek_df.to_csv(f'{save_dir}/gameweek_{gameweek_id}.csv', index=False)
         print(f"Data saved to gameweek_{gameweek_id}.csv")
@@ -30,15 +29,16 @@ def save_gameweek_data(gameweek_id, base_url, save_dir):
         print(f"No data to save for gameweek {gameweek_id}.")
 
 def main():
-    """Main function to fetch and save data for a single gameweek."""
+    """Main function to fetch and save data for multiple gameweeks."""
     base_url = 'https://fantasy.premierleague.com/api/'
-    save_dir = '../data/gameweeks'  # Directory to save gameweek data
+    save_dir = '../data/raw/gameweeks'  # Updated directory to save gameweek data
 
-    # Specify the gameweek number
-    gameweek_id = 1
+    # Specify the gameweeks to process
+    gameweeks_to_fetch = [1, 2, 3]  # Example: Fetch data for gameweeks 1, 2, and 3
 
-    # Fetch and save the data for the specified gameweek
-    save_gameweek_data(gameweek_id, base_url, save_dir)
+    # Loop through each gameweek ID and fetch/save the data
+    for gameweek_id in gameweeks_to_fetch:
+        save_gameweek_data(gameweek_id, base_url, save_dir)
 
 if __name__ == "__main__":
     main()

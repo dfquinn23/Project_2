@@ -1,5 +1,6 @@
 import pandas as pd
 import requests
+import os
 
 def fetch_data(url):
     """Fetches data from the FPL URL using HTTP GET request."""
@@ -22,10 +23,18 @@ if data:
     # Convert relevant data to DataFrame
     players_df = pd.DataFrame(data['elements'])
     teams_df = pd.DataFrame(data['teams'])
-    
-    # Save DataFrames to CSV
-    players_df.to_csv('../data/bootstrap_static_players.csv', index=False)
-    teams_df.to_csv('../data/bootstrap_static_teams.csv', index=False)
-    print("Data saved to bootstrap_static_players.csv and bootstrap_static_teams.csv")
+
+    # Define paths for saving data
+    raw_data_dir = '../data/raw/'
+    players_file_path = os.path.join(raw_data_dir, 'bootstrap_static_players.csv')
+    teams_file_path = os.path.join(raw_data_dir, 'bootstrap_static_teams.csv')
+
+    # Ensure the raw data directory exists
+    os.makedirs(raw_data_dir, exist_ok=True)
+
+    # Save DataFrames to CSV in the raw directory
+    players_df.to_csv(players_file_path, index=False)
+    teams_df.to_csv(teams_file_path, index=False)
+    print(f"Data saved to {players_file_path} and {teams_file_path}")
 else:
     print("No data to save.")
