@@ -19,8 +19,7 @@ def process_player_data(player_id, base_url, save_dir):
     if data:
         history_past_df = pd.DataFrame(data['history_past'])
         # Create save directory if it doesn't exist
-        if not os.path.exists(save_dir):
-            os.makedirs(save_dir)
+        os.makedirs(save_dir, exist_ok=True)
         # Save the player's data to a CSV file in the appropriate directory
         history_past_df.to_csv(f'{save_dir}/player_summary_{player_id}.csv', index=False)
         print(f"Data saved for player ID {player_id} in {save_dir}")
@@ -34,14 +33,14 @@ def main():
     
     # Define the position mapping and corresponding save directories
     position_mapping = {
-        1: ('Goalkeeper', '../data/goalkeeper'),
-        2: ('Defender', '../data/defender'),
-        3: ('Midfielder', '../data/midfielder'),
-        4: ('Forward', '../data/forward')
+        1: ('Goalkeeper', '../data/raw/goalkeeper'),
+        2: ('Defender', '../data/raw/defender'),
+        3: ('Midfielder', '../data/raw/midfielder'),
+        4: ('Forward', '../data/raw/forward')
     }
     
     # Read the player data from CSV
-    players_df = pd.read_csv('../data/bootstrap_static_players.csv')
+    players_df = pd.read_csv('../data/raw/bootstrap_static_players.csv')
     
     # Loop through the defined positions and process the players
     for element_type, (position_name, save_dir) in position_mapping.items():
