@@ -12,5 +12,5 @@ df_filtered = filter_dataframe(df)
 print(df_filtered)
 
 # Save to CSV or further process
-# df.to_csv('./sorare/sorare_data/sorare_market_data.csv', index=False)
+df.to_csv('./sorare/sorare_data/sorare_market_data.csv', index=False)
 # df_filtered.to_csv('./sorare/sorare_data/sorare_market_data_filtered.csv', index=False)
