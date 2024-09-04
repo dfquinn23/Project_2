@@ -3,6 +3,8 @@ from utils.data_structures import english_prem_teams, col_prefixes
 
 df = pd.read_csv('sorare/sorare_data/sorare_market_data.csv')
 
+df.fillna(0.0)
+
 # creating a groupby, but need to get ALL columns, to do that, need to create a list of columns with the appended index
 agg_dict = {}
 for prefix in col_prefixes:
@@ -17,7 +19,7 @@ agg_dict.update({
     'Last_Name': 'first',
     'Age': 'first',
     'Position': 'first',
-    'Player_Number': lambda x: int(x.iloc[0]),
+    'Player_Number': lambda x: int(x.iloc[0]) if pd.notna(x.iloc[0]) else 0,
     'Current_Club': 'first',
     'Active_Injuries_Bool': 'first',
     'Active_Suspensions_Bool': 'first',

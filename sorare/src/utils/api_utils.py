@@ -49,7 +49,7 @@ def fetch_market_data():
             # print(f'Counter: {counter}')
             counter += 1
             # if counter >= max_counter: has_next_page = False
-            time.sleep(0.1) if has_next_page == True else time.sleep(0.5)
+            time.sleep(0.15) if has_next_page == True else time.sleep(0.5)
             cursor = response.json()['data']['allCards']['pageInfo']['endCursor']
         else:
             print(f"Failed to fetch data: {response.status_code}")
