@@ -1,5 +1,25 @@
 ## Contents
 
+### Directory Stucture
+_defense_analysis/
+├── data/
+│   ├── cleaned/
+│   │   ├── defender/
+│   │   ├── forward/
+│   │   ├── gameweeks/
+│   │   ├── goalkeeper/
+│   │   └── midfielder/
+│   ├── processed/
+│   └── raw/
+│       ├── defender/
+│       ├── forward/
+│       ├── gameweeks/
+│       ├── goalkeeper/
+│       └── midfielder/
+├── data_extraction/
+└── notebooks/
+
+
 ### Data Extraction Scripts 
 Overview of Scripts
 1. ```01-my_bootstrap_static.py```
@@ -86,8 +106,50 @@ Notes:
  ### 1. Data Directory (`data/`)
 
 Current Season
-- **gameweeks/**: Each of these files contains player performance data specific to a particular gameweek (week 1, week 2, and so on). These files capture various in-game metrics for each player.
+- **gameweeks/**: Each of these files contains player performance data specific to a particular gameweek (week 1, week 2, and so on). These files capture various in-game metrics for each player's performance in the specified gameweek.
+    - **Key Columns and Their Meaning**
+    1. id: A unique identifier for each record, which might represent a unique entry in the dataset.
+    2. stats: A dictionary-like column containing various statistics related to the player's performance in the gameweek. This includes:
+        * minutes: The number of minutes the player was on the pitch.
+        * goals_scored: Goals scored by the player.
+        * assists: Assists made by the player.
+        * clean_sheets: Whether the player kept a clean sheet (important for defenders and goalkeepers).
+        * goals_conceded: Goals conceded while the player was on the field.
+        * own_goals: Own goals scored by the player.
+        * penalties_saved and penalties_missed: Relevant for goalkeepers and outfield players taking penalties.
+        * yellow_cards and red_cards: Yellow and red cards received by the player.
+        * saves: Number of saves made by the player (usually goalkeepers).
+        * bonus: Bonus points awarded.
+        * bps (Bonus Points System): A detailed metric used to allocate bonus points.
+        * influence, creativity, threat, ict_index: Advanced performance metrics used in FPL scoring.
+        * expected_goals, expected_assists, expected_goal_involvements, expected_goals_conceded: Expected statistics, likely based on advanced analytics and modeling.
+    3. explain: A data structure that provides a breakdown of the points and stats contributing to the player's total for the gameweek. It includes:
+        * fixture: The fixture ID related to the stats.
+        * stats: A list of dictionaries detailing various performance metrics and their associated points, such as minutes, goals_scored, assists, etc.
+        * first_name: The player's first name.
+        * second_name: The player's last name or surname.
+        * element_code: A unique identifier linking the player to their overall player profile. This code is crucial for merging data across different datasets.
+
 - **fixtures.csv**: This file contains data about the scheduled matches (fixtures) in the league, including details about the teams playing, match outcomes, and match difficulty ratings.
+    - **Key Columns and Their Meaning**
+    1. code: A unique identifier for each fixture.
+    2. event: The gameweek associated with the fixture.
+    3. finished: A boolean indicating whether the fixture has been completed (TRUE or FALSE).
+    4. finished_provisional: A boolean indicating provisional completion status (possibly used for live updates?).
+    5. id: Another unique identifier (for internal or API use?).
+    6. kickoff_time: The scheduled kickoff time and date for the fixture.
+    7. minutes: The duration of the match, usually 90 for regular time.
+    8. provisional_start_time: Indicates if the start time is provisional.
+    9. started: A boolean indicating whether the match has started (TRUE or FALSE).
+    10. team_a: The ID of the away team in the fixture.
+    11. team_a_score: The number of goals scored by the away team.
+    12. team_h: The ID of the home team in the fixture.
+    13. team_h_score: The number of goals scored by the home team.
+    14. stats: A complex column that contains nested data, capturing detailed match statistics such as goals scored, assists, yellow cards, etc., for both home and away teams.
+    15. team_h_difficulty: A numerical representation of the match difficulty for the home team (a FPL derived stat).
+    16. team_a_difficulty: Similar to team_h_difficulty, but for the away team.
+    17. pulse_id: Another unique identifier (not clear how it is used).
+
 
 
 Historical
