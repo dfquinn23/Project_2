@@ -165,8 +165,9 @@ cython_debug/
 #.idea/
 
 sorare/__pycache__/
-sorare/src/utils/__pycache__
+sorare/sorare-api/utils/__pycache__
 sorare/processing-sorare-data/utils/__pycache__/
 sorare/sorare_data/15_cleaned_sorare_data.csv
 sorare/sorare_data/15_sorare_market_data.csv
 sorare/sorare_data/sorare_market_data.csv
+sorare/sorare_data/test_sorare_market_data.csv
