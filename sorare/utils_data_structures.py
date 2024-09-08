@@ -1,0 +1,40 @@
+col_prefixes = [
+    'So_5_Scores',
+    'accuratePass',
+    'assistPenaltyWon',
+    'bigChanceCreated',
+    'cleanSheet',
+    'cleanSheet60',
+    'crossAccuracy',
+    'duelWon',
+    'effectiveClearance',
+    'errorLeadToGoal',
+    'fouls',
+    'gameStarted',
+    'goalAssist',
+    'goals',
+    'interceptionWon',
+    'lastManTackle',
+    'minsPlayed',
+    'ownGoals',
+    'passAccuracy',
+    'penaltiesSaved',
+    'penaltyConceded',
+    'penaltyKickMissed',
+    'penaltySave',
+    'redCard',
+    'saves',
+    'shotAccuracy',
+    'totalClearance',
+    'totalPass',
+    'wonTackle',
+    'yellowCard'
+]
+
+english_prem_teams = [
+       'Brentford FC', 'Arsenal FC', 'West Ham United FC', 'Everton FC',
+       'Southampton FC', 'Fulham FC', 'Manchester United FC', 'Newcastle United FC',
+       'Liverpool FC', 'Tottenham Hotspur FC', 'Aston Villa FC', 'Nottingham Forest FC',
+       'AFC Bournemouth', 'Ipswich Town FC', 'Chelsea FC', 'Brighton & Hove Albion FC',
+       'Manchester City FC', 'Leicester City FC', 'Crystal Palace FC', 'Wolverhampton Wanderers FC'
+       ]
