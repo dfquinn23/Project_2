@@ -5,7 +5,7 @@ import numpy as np
 from sklearn.preprocessing import StandardScaler
 from sklearn.preprocessing import LabelEncoder
 
-from utils.data_structures import col_prefixes
+from sorare.utils_data_structures import col_prefixes
 
 
 
