@@ -1,0 +1,503 @@
+Display_Name,First_Name,Last_Name,Player_Number,Position,Current_Club,So_5_Scores_9,xgb_predictions,lgbm_predictions,elastic_predictions
+Aaron Ramsdale,Aaron,Ramsdale,1,Goalkeeper,Southampton FC,0.0,0.12006958,1.4772375573288796,2.4675364629172645
+Alex McCarthy,Alex,McCarthy,1,Goalkeeper,Southampton FC,45.2,45.150146,45.23150096444744,29.803026196439102
+Alexander Borto,Alexander,Borto,36,Goalkeeper,Fulham FC,0.0,0.0,0.2704346269308967,0.0264265361253782
+Alfie Whiteman,Alfie,Whiteman,41,Goalkeeper,Tottenham Hotspur FC,0.0,0.0059563406,0.3031531504006939,0.1672292414940552
+Alisson Becker,Alisson,Becker,1,Goalkeeper,Liverpool FC,42.16542056074766,42.14748,50.036627704349634,60.18298868858867
+Alphonse Aréola,Alphonse,Aréola,23,Goalkeeper,West Ham United FC,0.0,0.0,3.8350398191218975,6.774930894743388
+Altay Bayındır,Altay,Bayındır,1,Goalkeeper,Manchester United FC,0.0,0.0394577,14.390863520259762,7.709523503502166
+André Onana,André,Onana,24,Goalkeeper,Manchester United FC,30.7,30.736887,30.130464162482,30.634888715478475
+Arijanet Murić,Arijanet,Murić,49,Goalkeeper,Ipswich Town FC,76.7,76.681175,54.96731790684928,48.3028753380578
+Asmir Begović,Asmir,Begović,0,Goalkeeper,Everton FC,42.3,42.331387,49.30988181543087,56.05978146228667
+Bart Verbruggen,Bart,Verbruggen,1,Goalkeeper,Brighton & Hove Albion FC,70.0,70.01704,63.627540388889706,47.193970595755296
+Bernd Leno,Bernd,Leno,17,Goalkeeper,Fulham FC,55.20000000000001,37.13297,39.60417664205082,44.28800832745328
+Brandon Austin,Brandon,Austin,23,Goalkeeper,Tottenham Hotspur FC,0.0,0.0,0.3231698051809932,0.0
+Caoimhin Kelleher,Caoimhin,Kelleher,62,Goalkeeper,Liverpool FC,0.0,3.5767012,0.0,0.0
+Christian Walton,Christian,Walton,1,Goalkeeper,Ipswich Town FC,0.0,0.04340167,2.1145144129146085,6.544513970767737
+Cieran Slicker,Cieran,Slicker,13,Goalkeeper,Ipswich Town FC,0.0,0.0,0.2704346269308967,0.0
+Daniel Bentley,Daniel,Bentley,25,Goalkeeper,Wolverhampton Wanderers FC,0.0,0.10676413,0.537088031188922,3.9949815403295705
+Daniel Iversen,Daniel,Iversen,31,Goalkeeper,Leicester City FC,56.4,56.424828,49.5740986841234,43.07744002712475
+Danny Ward,Danny,Ward,1,Goalkeeper,Leicester City FC,0.0,6.89119,3.169725006362699,0.0
+David Raya,David,Raya,1,Goalkeeper,Arsenal FC,0.0,44.866604,36.70417762579285,41.95732973664175
+Dean Henderson,Dean,Henderson,30,Goalkeeper,Crystal Palace FC,0.0,0.022163268,1.0441610729690445,12.311446024757345
+Ederson,Ederson,0.0,31,Goalkeeper,Manchester City FC,82.18957219251337,37.62326,44.11155417351469,42.90563666596321
+Filip Jörgensen,Filip,Jörgensen,35,Goalkeeper,Chelsea FC,26.9,26.915134,30.44370680783267,38.78052402175792
+Fraser Forster,Fraser,Forster,20,Goalkeeper,Tottenham Hotspur FC,0.0,0.25716612,0.2066230902720964,0.4267068411528232
+Gavin Bazunu,Gavin,Bazunu,31,Goalkeeper,Southampton FC,0.0,0.0,0.3689494460725646,1.7515150081075084
+Guglielmo Vicario,Guglielmo,Vicario,13,Goalkeeper,Tottenham Hotspur FC,76.1,75.85238,23.29169280677693,11.336044914920173
+Jakub Stolarczyk,Jakub,Stolarczyk,41,Goalkeeper,Leicester City FC,0.0,0.03987832,4.1078603163135305,7.632313153728672
+Jason Steele,Jason,Steele,23,Goalkeeper,Brighton & Hove Albion FC,0.0,0.012926026,21.609614023315316,32.104027248954964
+Jordan Pickford,Jordan,Pickford,1,Goalkeeper,Everton FC,59.39619289340102,59.43328,61.395455982138486,54.73567616940119
+Joseph Lumley,Joseph,Lumley,13,Goalkeeper,Southampton FC,0.0,0.0016821513,0.261756534872983,0.2415770094929199
+José Sá,José,Sá,1,Goalkeeper,Wolverhampton Wanderers FC,0.0,0.31270072,1.106132518730399,0.0
+João Virgínia,João,Virgínia,12,Goalkeeper,Everton FC,0.0,0.0,0.4061585459178808,0.0004430897626815
+Kepa Arrizabalaga,Kepa,Arrizabalaga,1,Goalkeeper,AFC Bournemouth,0.0,0.117686205,2.5037588847515773,8.831558201605311
+Lucas Bergström,Lucas,Bergström,21,Goalkeeper,Chelsea FC,0.0,0.0,0.2684630814469195,0.0
+Mads Hermansen,Mads,Hermansen,30,Goalkeeper,Leicester City FC,0.0,0.0,0.6909896369414132,8.904319645913072
+Marcus Bettinelli,Marcus,Bettinelli,13,Goalkeeper,Chelsea FC,0.0,0.1378242,0.2634649001888997,0.0
+Mark Flekken,Mark,Flekken,1,Goalkeeper,Brentford FC,0.0,0.05123353,6.988465702239039,7.401660252302988
+Mark Gillespie,Mark,Gillespie,29,Goalkeeper,Newcastle United FC,0.0,0.030268688,0.5694533474722755,0.8067481486826157
+Mark Travers,Mark,Travers,1,Goalkeeper,AFC Bournemouth,74.96,39.288387,38.703667458372415,37.86792922526527
+Martin Dúbravka,Martin,Dúbravka,1,Goalkeeper,Newcastle United FC,0.0,47.178043,41.13631924749627,33.78328115732489
+Matt Turner,Matt,Turner,30,Goalkeeper,Crystal Palace FC,0.0,0.0132718645,17.521426873899316,23.534243997768364
+Matz Sels,Matz,Sels,26,Goalkeeper,Nottingham Forest FC,0.0,0.0,3.540576725189968,7.050772061681089
+Nick Pope,Nick,Pope,22,Goalkeeper,Newcastle United FC,0.0,9.188051,3.152014518660575,12.692299485072754
+Odysseas,Odysseas,0.0,99,Goalkeeper,Newcastle United FC,0.0,0.0,2.6440590965140296,0.0
+Remi Matthews,Remi,Matthews,31,Goalkeeper,Crystal Palace FC,0.0,0.0,0.5163134247775237,0.6640561567032018
+Robert Sánchez,Robert,Sánchez,1,Goalkeeper,Chelsea FC,0.0,0.43373102,2.7896974354874917,3.940096993652169
+Robin Olsen,Robin,Olsen,25,Goalkeeper,Aston Villa FC,8.2,33.410957,28.02796671254153,22.29558861928192
+Sam Johnstone,Sam,Johnstone,21,Goalkeeper,Wolverhampton Wanderers FC,0.0,0.0,2.4552933364605365,1.9426704517535132
+Scott Carson,Scott,Carson,33,Goalkeeper,Manchester City FC,0.0,0.0,0.4772800771743316,0.0
+Stefan Ortega Moreno,Stefan,Ortega Moreno,1,Goalkeeper,Manchester City FC,0.0,0.015086645,1.8031312198447365,8.553676859798202
+Thomas Heaton,Thomas,Heaton,22,Goalkeeper,Manchester United FC,0.0,0.06980726,0.5016648956774333,0.1037630430983047
+Thomas King,Thomas,King,40,Goalkeeper,Wolverhampton Wanderers FC,0.0,0.09456834,0.4834459057916469,1.5296920748626477
+Tommy Setford,Tommy,Setford,0,Goalkeeper,Arsenal FC,0.0,0.0,0.2820564960719967,0.2557631598355823
+Wesley Foderingham,Wesley,Foderingham,18,Goalkeeper,West Ham United FC,0.0,0.08860467,4.752063105330985,9.2201844200089
+Will Dennis,Will,Dennis,1,Goalkeeper,AFC Bournemouth,73.3,49.405884,41.96579030582501,33.92788248706816
+Łukasz Fabiański,Łukasz,Fabiański,1,Goalkeeper,West Ham United FC,60.7,60.70358,50.193887575042815,38.030094539450985
+Aaron Cresswell,Aaron,Cresswell,3,Defender,West Ham United FC,0.0,8.526336,28.886359479054622,40.372045046737895
+Aaron Hickey,Aaron,Hickey,2,Defender,Brentford FC,0.0,1.323632,1.881205959053177,2.8874764854540538
+Aaron Wan-Bissaka,Aaron,Wan-Bissaka,29,Defender,West Ham United FC,34.16,36.96078,42.448514222339945,45.28543048875794
+Adam Smith,Adam,Smith,15,Defender,AFC Bournemouth,34.86,35.821514,39.08654264045975,36.87359127293192
+Adam Webster,Adam,Webster,4,Defender,Brighton & Hove Albion FC,0.0,1.6346481,18.970014971641376,23.280437946342506
+Andrew Omobamidele,Andrew,Omobamidele,4,Defender,Nottingham Forest FC,2.5127710843373494,4.103651,15.245372118564063,8.959471405826811
+Andy Robertson,Andy,Robertson,26,Defender,Liverpool FC,98.42,47.340088,50.46534292872587,56.134452126289005
+Antonee Robinson,Antonee,Robinson,0,Defender,Fulham FC,15.82,15.875081,29.38028574766807,47.29744187346847
+Armel Bella-Kotchap,Armel,Bella-Kotchap,37,Defender,Southampton FC,0.0,3.215127,2.069272294934997,2.7465977973575137
+Ashley Young,Ashley,Young,18,Defender,Everton FC,0.0,43.82747,37.60998695006275,40.627650061861615
+Axel Disasi,Axel,Disasi,2,Defender,Chelsea FC,0.0,1.9542277,7.92533798161745,16.356904857721474
+Axel Tuanzebe,Axel,Tuanzebe,40,Defender,Ipswich Town FC,0.0,4.455556,35.55992531263453,42.73516797415931
+Bastien Meupiyou,Bastien,Meupiyou,45,Defender,Wolverhampton Wanderers FC,0.0,0.0,0.883869263513736,0.9907547719071734
+Ben Chilwell,Ben,Chilwell,21,Defender,Chelsea FC,0.0,1.030067,1.707886710864188,2.4180717561357423
+Ben Davies,Ben,Davies,33,Defender,Tottenham Hotspur FC,0.0,0.37347186,11.822687300035716,9.972055941189897
+Ben Johnson,Ben,Johnson,18,Defender,Ipswich Town FC,27.25895652173913,24.200314,17.153091470797513,17.024987060280996
+Ben Mee,Ben,Mee,16,Defender,Brentford FC,0.0,1.5072299,2.66767867058589,4.060222502801633
+Ben White,Ben,White,4,Defender,Arsenal FC,34.32,50.79238,51.16792802736535,51.24412290846638
+Benoît Badiashile,Benoît,Badiashile,4,Defender,Chelsea FC,54.88,53.695576,45.15329877750507,47.28695289800241
+Caleb Okoli,Caleb,Okoli,5,Defender,Leicester City FC,61.38,59.406445,47.30724256139899,38.26885886133687
+Calvin Bassey,Calvin,Bassey,3,Defender,Fulham FC,60.0,55.92823,45.63790879366384,47.33015151321979
+Cameron Burgess,Cameron,Burgess,15,Defender,Ipswich Town FC,54.58,54.465565,48.09903619494461,41.12802438382335
+Chadi Riad,Chadi,Riad,0,Defender,Crystal Palace FC,49.96,31.175524,36.790226525497125,41.84044895623848
+Charles Taylor,Charles,Taylor,3,Defender,Southampton FC,29.66,26.064234,21.003660050518352,25.17433307957391
+Chris Richards,Chris,Richards,26,Defender,Crystal Palace FC,40.84,50.182835,51.52988374730509,47.33641973118509
+Conor Bradley,Conor,Bradley,84,Defender,Liverpool FC,0.0,0.76750726,8.291361989941617,18.09012207438465
+Conor Coady,Conor,Coady,30,Defender,Leicester City FC,35.0,33.049072,17.269830781412832,11.20766529741185
+Conor Townsend,Conor,Townsend,3,Defender,Ipswich Town FC,0.0,1.8700955,23.305889141078257,32.56607015920247
+Craig Dawson,Craig,Dawson,15,Defender,Wolverhampton Wanderers FC,0.0,0.47388294,3.20073535456132,9.133875389910967
+Cristian Romero,Cristian,Romero,17,Defender,Tottenham Hotspur FC,90.28000000000002,50.71291,56.18430346875758,61.086741296818175
+Dan Burn,Dan,Burn,33,Defender,Newcastle United FC,41.86,34.76887,44.45547464132549,45.26898060599848
+Daniel Muñoz,Daniel,Muñoz,12,Defender,Crystal Palace FC,63.88564705882353,63.455086,52.70824817021172,50.2456766736601
+Dara O'Shea,Dara,O'Shea,2,Defender,Ipswich Town FC,58.04684210526316,57.84048,54.94025558071727,42.33117002921496
+Dean Huijsen,Dean,Huijsen,2,Defender,AFC Bournemouth,0.0,0.0,1.1391584947219129,7.297674118778563
+Destiny Udogie,Destiny,Udogie,38,Defender,Tottenham Hotspur FC,0.0,0.75218344,4.1088481434003015,12.654749276477194
+Diego Carlos,Diego Carlos,0.0,3,Defender,Aston Villa FC,35.82,36.462383,33.82379099536813,17.319016529830865
+Diogo Dalot,Diogo,Dalot,20,Defender,Manchester United FC,44.24,44.31057,41.91653885223492,39.0515468896828
+Djed Spence,Djed,Spence,90,Defender,Tottenham Hotspur FC,30.02,30.77905,36.52364059606786,39.393927907197295
+Emerson,Emerson,0.0,3,Defender,West Ham United FC,56.1,28.478132,26.757650695310176,20.977391222572404
+Emil Krafth,Emil,Krafth,17,Defender,Newcastle United FC,56.9,56.15759,51.10627423833482,45.41958951577425
+Ethan Pinnock,Ethan,Pinnock,5,Defender,Brentford FC,34.26,34.498234,38.56233215721524,37.01067308702015
+Ezri Konsa,Ezri,Konsa,4,Defender,Aston Villa FC,0.0,1.8280847,10.819102544021003,12.659516862128624
+Fabian Schar,Fabian,Schar,5,Defender,Newcastle United FC,67.46,66.30545,46.43644721958815,20.37999209261069
+Ferdi Kadıoğlu,Ferdi,Kadıoğlu,7,Defender,Brighton & Hove Albion FC,65.40375451263537,65.86718,50.98231473646862,45.984083220763296
+Gabriel Magalhães,Gabriel,Magalhães,6,Defender,Arsenal FC,3.112876712328767,6.460575,7.109598724484163,11.926505090947222
+Harrison Clarke,Harrison,Clarke,2,Defender,Ipswich Town FC,41.88,40.512527,23.65298828504,22.16546797910097
+Harry Maguire,Harry,Maguire,5,Defender,Manchester United FC,90.05784090909091,86.11454,43.11572337391228,30.35691653807241
+Harry Toffolo,Harry,Toffolo,15,Defender,Nottingham Forest FC,0.0,0.9166675,4.921962103027084,6.500574646185428
+Ian Maatsen,Ian,Maatsen,22,Defender,Aston Villa FC,44.74,38.366924,3.954220705733268,8.891765736103753
+Ibrahima Konaté,Ibrahima,Konaté,5,Defender,Liverpool FC,0.0,0.5578035,3.728766117281115,10.65236123445118
+Igor,Igor,0.0,3,Defender,Brighton & Hove Albion FC,46.2,45.095886,36.80398753013221,35.97930625919982
+Illia Zabarnyi,Illia,Zabarnyi,27,Defender,AFC Bournemouth,44.74,52.081333,44.482744313702185,46.58497620949106
+Issa Diop,Issa,Diop,31,Defender,Fulham FC,0.0,0.0,10.92495345749011,15.405582553439595
+Jack Stephens,Jack,Stephens,3,Defender,Southampton FC,0.0,1.1212722,24.575918278185068,32.25883190806245
+Jacob Greaves,Jacob,Greaves,4,Defender,Ipswich Town FC,44.78,44.6866,46.68263688658608,48.91035423282207
+Jake O'Brien,Jake,O'Brien,0,Defender,Everton FC,65.99047619047619,48.79981,45.08419526802233,44.45715792809423
+Jakub Kiwior,Jakub,Kiwior,14,Defender,Arsenal FC,0.0,1.3400494,26.82549975071412,44.7500235640096
+Jamaal Lascelles,Jamaal,Lascelles,6,Defender,Newcastle United FC,0.0,0.7360851,1.6784809988935947,2.3904502621998462
+James Bree,James,Bree,14,Defender,Southampton FC,32.76,30.940708,27.38116048585644,28.013578652906222
+James Hill,James,Hill,23,Defender,AFC Bournemouth,0.0,0.0,4.937168193988399,6.1454793064317705
+James Justin,James,Justin,2,Defender,Leicester City FC,56.58,55.746662,40.361790569348926,21.69605399130736
+James Tarkowski,James,Tarkowski,6,Defender,Everton FC,8.8,8.914295,24.20290427236962,43.543438479927005
+Jan Bednarek,Jan,Bednarek,20,Defender,Southampton FC,51.6,50.78692,39.00404257881006,28.79467571810821
+Jan Paul Van Hecke,Jan Paul,Van Hecke,29,Defender,Brighton & Hove Albion FC,42.28,41.252937,38.91594350884381,32.93755168030506
+Jannik Vestergaard,Jannik,Vestergaard,23,Defender,Leicester City FC,52.42,49.29043,54.257618371175845,56.61447471958513
+Janoi Donacien,Janoi,Donacien,44,Defender,Ipswich Town FC,0.0,0.43694282,0.883869263513736,2.33392440339005
+Jarell Quansah,Jarell,Quansah,78,Defender,Liverpool FC,40.04,41.488068,47.34272658483586,50.44640104118632
+Jarrad Branthwaite,Jarrad,Branthwaite,32,Defender,Everton FC,65.2,63.0454,47.76291775471398,45.87039549200516
+Jean-Clair Todibo,Jean-Clair,Todibo,6,Defender,West Ham United FC,66.28,66.675354,47.34433543271327,49.41024950387755
+Joachim Andersen,Joachim,Andersen,16,Defender,Fulham FC,42.7,42.80629,48.34470954712326,46.58898079909281
+Joe Gomez,Joe,Gomez,2,Defender,Liverpool FC,0.0,3.62128,2.1363493301124263,1.948252512005031
+Joel Ward,Joel,Ward,2,Defender,Crystal Palace FC,34.2,29.831392,9.535409418217784,5.62566753627282
+John Stones,John,Stones,5,Defender,Manchester City FC,61.32542372881356,61.483524,55.52808360236416,53.982017772710776
+Jonny Evans ,Jonny,Evans,35,Defender,Manchester United FC,0.0,2.2403877,26.81370950861054,39.947877331140006
+Jorge Cuenca,Jorge,Cuenca,5,Defender,Fulham FC,36.71999999999999,34.17756,23.749671033786843,15.386117743313896
+Josh Wilson-Esbrand,Josh,Wilson-Esbrand,97,Defender,Manchester City FC,0.0,7.3286695,14.89548628287455,8.115397530343836
+Joël Veltman,Joël,Veltman,34,Defender,Brighton & Hove Albion FC,44.14,44.41268,42.1352415678267,37.65922865858593
+Joško Gvardiol,Joško,Gvardiol,32,Defender,Manchester City FC,62.62,61.55906,44.07560056941089,31.21157842879937
+Juan Larios,Juan,Larios,28,Defender,Southampton FC,0.0,0.535503,0.883869263513736,1.266227750028746
+Julián Araujo,Julián,Araujo,2,Defender,AFC Bournemouth,0.0,3.1780283,15.790402241474192,25.81408858116786
+Jurriën Timber,Jurriën,Timber,2,Defender,Arsenal FC,0.0,0.0,3.905552359255056,9.375848933478558
+Kenny Tete,Kenny,Tete,2,Defender,Fulham FC,0.0,0.8402183,2.4032367640596592,0.0
+Kieran Tierney,Kieran,Tierney,17,Defender,Arsenal FC,60.62,43.213623,39.4139759061003,41.0634063231942
+Kieran Trippier,Kieran,Trippier,2,Defender,Newcastle United FC,58.56,46.719563,44.89518232283427,52.201230118743325
+Kim Ji-Soo,Ji-Soo,Kim,36,Defender,Brentford FC,0.0,0.6925416,1.9587517229732776,1.985506519240972
+Konstantinos Mavropanos,Konstantinos,Mavropanos,5,Defender,West Ham United FC,0.0,1.5371393,12.871574755719088,6.7535858774509965
+Kortney Hause,Kortney,Hause,30,Defender,Aston Villa FC,0.0,0.4054897,0.883869263513736,1.2128421358770651
+Kostas Tsimikas,Kostas,Tsimikas,21,Defender,Liverpool FC,0.0,1.998101,5.770364575441388,8.588232454435891
+Kristoffer Ajer,Kristoffer,Ajer,20,Defender,Brentford FC,64.12,58.889904,49.66875910212215,48.99547217107703
+Kyle Walker,Kyle,Walker,2,Defender,Manchester City FC,56.92,55.980804,46.91368676511943,52.53941641395024
+Kyle Walker-Peters,Kyle,Walker-Peters,2,Defender,Southampton FC,35.64,35.819256,44.27177238206546,49.5476817691561
+Leif Davis,Leif,Davis,3,Defender,Ipswich Town FC,89.38,87.95632,66.09619420596835,51.2831049493367
+Leny Yoro,Leny,Yoro,15,Defender,Manchester United FC,70.96,70.408325,41.46613319128013,23.53617024610673
+Levi Colwill,Levi,Colwill,26,Defender,Chelsea FC,0.0,0.23512,8.562325444442921,7.5990749674187485
+Lewis Dunk,Lewis,Dunk,5,Defender,Brighton & Hove Albion FC,0.0,0.0,2.5639850626807266,7.069400389923046
+Lewis Hall,Lewis,Hall,20,Defender,Newcastle United FC,33.48,33.534687,38.269803593237626,38.07697322434456
+Lisandro Martínez,Lisandro,Martínez,6,Defender,Manchester United FC,60.42,59.794632,48.88370183632927,38.52665752324207
+Lloyd Kelly,Lloyd,Kelly,25,Defender,Newcastle United FC,43.12,42.535015,43.732233982385885,41.75952548154005
+Lucas Digne,Lucas,Digne,12,Defender,Aston Villa FC,41.9,41.585293,45.28603322179792,46.490915430454464
+Luke Shaw,Luke,Shaw,23,Defender,Manchester United FC,0.0,0.95046103,4.834662939661683,6.411800972087289
+Luke Thomas,Luke,Thomas,33,Defender,Leicester City FC,54.38,53.51043,38.247264658369325,38.70284766469455
+Luke Woolfenden,Luke,Woolfenden,6,Defender,Ipswich Town FC,70.0,68.92145,50.58997917089126,41.44201536728738
+Mads Roerslev,Mads,Roerslev,30,Defender,Brentford FC,28.52,31.476185,34.76445503404008,38.78441966895657
+Malo Gusto,Malo,Gusto,27,Defender,Chelsea FC,0.0,32.50823,25.132146329776717,28.494673593971868
+Manuel Akanji,Manuel,Akanji,16,Defender,Manchester City FC,47.34,47.21189,48.03982015765984,54.9565920801047
+Marc Cucurella,Marc,Cucurella,32,Defender,Chelsea FC,69.22,66.806694,48.03880478407736,50.120041295208296
+Marc Guéhi,Marc,Guéhi,6,Defender,Crystal Palace FC,58.07539568345324,58.062294,50.99112377306216,51.66528477186651
+Marcos Senesi,Marcos,Senesi,4,Defender,AFC Bournemouth,85.02,85.05858,64.86140888001457,50.33900300497272
+Matt Doherty,Matt,Doherty,12,Defender,Wolverhampton Wanderers FC,33.62285714285714,32.90639,34.15108729396359,35.16403681932039
+Matt Targett ,Matt,Targett,13,Defender,Newcastle United FC,0.0,1.2433941,1.854530448132851,1.488478947079347
+Matthijs de Ligt,Matthijs,de Ligt,4,Defender,Manchester United FC,0.0,0.0,3.9894448156227824,6.528606138682619
+Matty Cash,Matty,Cash,2,Defender,Aston Villa FC,0.0,1.5182227,28.10590427679672,41.54129435023863
+Max Aarons,Max,Aarons,37,Defender,AFC Bournemouth,41.16,8.457706,15.545709727085994,16.482489546558014
+Maxence Lacroix,Maxence,Lacroix,4,Defender,Crystal Palace FC,0.0,24.632174,30.54527178011423,25.15161273880005
+Maximilian Kilman,Maximilian,Kilman,23,Defender,West Ham United FC,54.70000000000001,54.05641,51.45974454968604,45.13916478314157
+Michael Keane,Michael,Keane,5,Defender,Everton FC,18.42,15.220545,6.357542554032039,4.966080357896443
+Micky van de Ven,Micky,van de Ven,37,Defender,Tottenham Hotspur FC,36.4,36.23594,21.867626675335465,19.14939725268212
+Milos Kerkez,Milos,Kerkez,3,Defender,AFC Bournemouth,0.0,44.61077,37.7937777470933,42.41121437450006
+Morato,Morato,0.0,91,Defender,Nottingham Forest FC,0.0,1.6054678,4.996196586541893,10.209315123830908
+Murillo,Murillo,0.0,40,Defender,Nottingham Forest FC,11.1656,12.316251,31.67863246758503,49.75647895730856
+Nathan Aké,Nathan,Aké,6,Defender,Manchester City FC,85.5,82.872406,60.85299359645994,44.97448221428573
+Nathan Collins,Nathan,Collins,22,Defender,Brentford FC,46.354,55.146828,53.96469704871713,50.71625587820464
+Nathan Patterson,Nathan,Patterson,3,Defender,Everton FC,27.680000000000003,21.258749,2.716925901625845,3.5476566997755463
+Nathaniel Clyne,Nathaniel,Clyne,17,Defender,Crystal Palace FC,70.2,68.96934,55.28147830071845,40.535283812985895
+Neco Williams,Neco,Williams,7,Defender,Nottingham Forest FC,40.46,34.823956,39.44726165212991,36.88464013807116
+Nelson Semedo,Nelson,Semedo,22,Defender,Wolverhampton Wanderers FC,48.9,35.18586,21.8512864431778,24.489723796896254
+Neto,0.0,Neto,13,Defender,Arsenal FC,15.427906976744186,15.680681,15.35858914131085,26.725967560626184
+Nikola Milenković,Nikola,Milenković,4,Defender,Nottingham Forest FC,0.0,31.568426,29.362638762605265,32.63423271148133
+Noussair Mazraoui,Noussair,Mazraoui,40,Defender,Manchester United FC,40.64,39.559586,32.43146396319438,23.55782302941599
+Ola Aina,Ola,Aina,43,Defender,Nottingham Forest FC,45.07999999999999,45.228542,47.27761003950116,53.4575598681262
+Oleksandr Zinchenko,Oleksandr,Zinchenko,35,Defender,Arsenal FC,45.68341968911917,52.401,51.02897324545624,53.93298797125584
+Pau Torres,Pau,Torres,4,Defender,Aston Villa FC,28.1,4.3639956,15.79303920071172,22.487488395255003
+Pedro Porro,Pedro,Porro,23,Defender,Tottenham Hotspur FC,34.52,35.2646,48.87292061240089,50.397699878408304
+Pervis Estupiñán,Pervis,Estupiñán,30,Defender,Brighton & Hove Albion FC,3.025945945945946,3.0341916,2.850755240442836,5.85240377115502
+Radu Drăgușin,Radu,Drăgușin,6,Defender,Tottenham Hotspur FC,35.0,33.62508,31.27234758317654,33.690554453939455
+Rayan Aït Nouri,Rayan,Aït Nouri,3,Defender,Wolverhampton Wanderers FC,59.28,55.96762,46.04156151532994,46.6572667637363
+Reece James,Reece,James,24,Defender,Chelsea FC,0.0,25.745876,17.146829164792106,11.769570566589987
+Reguilón,0.0,Reguilón,3,Defender,Tottenham Hotspur FC,73.92,73.263596,59.19213154536774,53.50869772251572
+Ricardo Pereira,Ricardo,Pereira,21,Defender,Leicester City FC,66.46,64.27866,50.32945068706972,41.6233318373108
+Riccardo Calafiori,Riccardo,Calafiori,33,Defender,Arsenal FC,37.1,37.377735,49.77541730304332,47.086894839342335
+Rico Henry,Rico,Henry,3,Defender,Brentford FC,0.0,0.2860447,1.7478817157457622,2.456803369441996
+Rico Lewis,Rico,Lewis,82,Defender,Manchester City FC,3.7544444444444447,3.519727,12.589032157765788,14.18647008448486
+Rob Holding,Rob,Holding,16,Defender,Crystal Palace FC,0.0,0.124029964,1.7228882995043269,1.2786176181958764
+Ronnie Edwards,Ronnie,Edwards,0,Defender,Southampton FC,0.0,1.3484265,0.883869263513736,1.6976584282843388
+Ryan Manning,Ryan,Manning,3,Defender,Southampton FC,35.32,34.444294,29.72854120491522,21.1370476570264
+Rúben Dias,Rúben,Dias,6,Defender,Manchester City FC,0.0,53.145325,54.0416500619762,43.00189397456042
+SANTIAGO,SANTIAGO,0.0,22,Defender,Wolverhampton Wanderers FC,30.960000000000004,30.832983,32.980761638372535,28.38747276501174
+Seamus Coleman,Seamus,Coleman,23,Defender,Everton FC,0.0,2.1875415,14.251194300302052,17.36379251106428
+Sepp van den Berg,Sepp,van den Berg,3,Defender,Brentford FC,57.84,52.020214,51.11279055743555,42.82421081711964
+Sven Botman,Sven,Botman,4,Defender,Newcastle United FC,0.0,0.8012499,2.04726227237589,2.290584153193637
+Takehiro Tomiyasu,Takehiro,Tomiyasu,18,Defender,Arsenal FC,63.32,63.905453,55.49025882372828,39.59907486909995
+Tariq Lamptey,Tariq,Lamptey,2,Defender,Brighton & Hove Albion FC,0.0,5.6036177,17.510922242919975,16.43657154130139
+Taylor Harwood-Bellis,Taylor,Harwood-Bellis,6,Defender,Southampton FC,46.7,46.338726,41.05940500962949,46.22191008817563
+Timothy Castagne,Timothy,Castagne,21,Defender,Fulham FC,46.70000000000001,46.851494,42.8171372865069,37.30820782030672
+Tino Livramento,Tino,Livramento,21,Defender,Newcastle United FC,32.08373831775701,31.916698,31.708441969561044,25.438400175538977
+Tosin Adarabioyo,Tosin,Adarabioyo,4,Defender,Chelsea FC,24.9,21.836142,5.808093161696665,7.536877594628022
+Toti,Toti,0.0,24,Defender,Wolverhampton Wanderers FC,50.8,50.731083,48.79188874724186,52.733892688716594
+Trent Alexander-Arnold,Trent,Alexander-Arnold,66,Defender,Liverpool FC,52.423574879227054,51.550903,37.55852914074653,32.3730926132623
+Trevoh Chalobah,Trevoh,Chalobah,14,Defender,Crystal Palace FC,73.36,72.38268,50.00457915464683,42.15429968366253
+Tyrell Malacia,Tyrell,Malacia,12,Defender,Manchester United FC,0.0,0.38200408,2.005911867136418,3.689645917460615
+Tyrick Mitchell,Tyrick,Mitchell,3,Defender,Crystal Palace FC,91.74,88.801926,58.76962530200196,51.18420707708104
+Tyrone Mings,Tyrone,Mings,5,Defender,Aston Villa FC,0.0,0.51427513,1.7039719150870138,3.7192808054967017
+Victor Kristiansen,Victor,Kristiansen,15,Defender,Leicester City FC,43.02,42.539642,42.397313942907886,41.07447574937713
+Victor Lindelöf,Victor,Lindelöf,2,Defender,Manchester United FC,0.0,0.0,4.313585645900457,4.347404637875621
+Virgil van Dijk,Virgil,van Dijk,4,Defender,Liverpool FC,89.04,39.004868,43.8972292873812,52.39922400845032
+Vitalii Mykolenko,Vitalii,Mykolenko,19,Defender,Everton FC,0.0,3.0212421,10.98691241656912,11.141478790023346
+Vladimír Coufal,Vladimír,Coufal,5,Defender,West Ham United FC,56.55627450980392,55.78389,41.59611669251086,44.968171474446905
+Wesley Fofana,Wesley,Fofana,33,Defender,Chelsea FC,0.0,0.0,2.7844094521585063,4.790115761793276
+William Saliba,William,Saliba,2,Defender,Arsenal FC,56.32,56.305527,48.87107440522251,49.815663011637085
+Willy-Arnaud Boly,Willy-Arnaud,Boly,30,Defender,Nottingham Forest FC,0.0,47.607166,50.51060803894592,54.92801416004311
+Wout Faes,Wout,Faes,3,Defender,Leicester City FC,36.02,36.29853,39.80581075300588,52.63930715252496
+Yerson Mosquera,Yerson,Mosquera,15,Defender,Wolverhampton Wanderers FC,66.6763492063492,66.63324,55.905883200835866,45.38901904847164
+Yukinari Sugawara,Yukinari,Sugawara,2,Defender,Southampton FC,71.62,71.61899,57.14147113730806,50.9835449787621
+Álex Moreno,Álex,Moreno,15,Defender,Nottingham Forest FC,0.0,0.39044723,5.587124508806581,5.725615409505586
+Abdoulaye Doucouré,Abdoulaye,Doucouré,16,Midfielder,Everton FC,12.2,15.914597,36.671409006957234,52.724705659601554
+Adam Lallana,Adam,Lallana,14,Midfielder,Southampton FC,35.9,35.55288,30.542415624747903,22.074436645173414
+Adam Wharton,Adam,Wharton,20,Midfielder,Crystal Palace FC,0.0,5.1076226,5.538039551057593,9.23511997861284
+Alex Scott,Alex,Scott,14,Midfielder,AFC Bournemouth,0.0,24.29508,24.95597538538085,26.73800535062152
+Alexis Mac Allister,Alexis,Mac Allister,10,Midfielder,Liverpool FC,76.4,51.196712,52.22992955564344,40.02928188261184
+Amadou Onana,Amadou,Onana,8,Midfielder,Aston Villa FC,44.5,43.92641,45.46501178971047,53.01266918268029
+Andreas Pereira,Andreas,Pereira,18,Midfielder,Fulham FC,0.0,2.7726305,25.46497196323577,40.1437599947764
+Andrew Irving,Andrew,Irving,19,Midfielder,West Ham United FC,42.6,42.378376,46.12345633779252,46.62734470213872
+André,André,0.0,7,Midfielder,Wolverhampton Wanderers FC,47.93888888888889,47.561153,44.32889141492787,41.66167103874344
+Archie Gray,Archie,Gray,14,Midfielder,Tottenham Hotspur FC,41.7,42.662193,40.25265478791118,35.34385710466683
+Bernardo Silva,Bernardo,Silva,20,Midfielder,Manchester City FC,0.0,1.5529051,27.47683958528547,53.91743958446544
+Bilal El Khannous,Bilal,El Khannous,34,Midfielder,Leicester City FC,68.9,67.92035,52.87853884814372,27.98752380698739
+Boubacar Kamara,Boubacar,Kamara,44,Midfielder,Aston Villa FC,0.0,0.6920085,2.439701111685684,5.044101557726239
+Boubacar Traoré,Boubacar,Traoré,6,Midfielder,Wolverhampton Wanderers FC,41.5,41.43598,42.83283909422732,45.73073349094925
+Boubakary Soumaré,Boubakary,Soumaré,0,Midfielder,Leicester City FC,44.7,45.1959,48.47548646973283,45.709987803461125
+Bruno Fernandes,Bruno,Fernandes,8,Midfielder,Manchester United FC,91.9,41.03982,40.68267333591499,54.526708060813895
+Bruno Guimarães,Bruno,Guimarães,39,Midfielder,Newcastle United FC,45.68312958435208,45.807446,40.46688411269949,47.44048807756016
+Bukayo Saka,Bukayo,Saka,7,Midfielder,Arsenal FC,37.09782016348774,37.442005,45.568268258011486,46.10976358401952
+Carlos Baleba,Carlos,Baleba,20,Midfielder,Brighton & Hove Albion FC,36.4,36.188694,33.20488149531888,22.48996305274859
+Carlos Soler,Carlos,Soler,28,Midfielder,West Ham United FC,45.1,43.241383,35.78098740823909,24.95122485903833
+Carney Chukwuemeka,Carney,Chukwuemeka,17,Midfielder,Chelsea FC,0.0,1.8733207,1.4265177606583517,1.688042190244602
+Casemiro,Casemiro,0.0,18,Midfielder,Manchester United FC,52.9,52.72763,48.49810667535635,49.028092027853305
+Cheick Doucouré,Cheick,Doucouré,28,Midfielder,Crystal Palace FC,0.0,0.16801067,3.908351837859299,3.4606257980012645
+Christian Eriksen,Christian,Eriksen,14,Midfielder,Manchester United FC,100.0,96.850136,66.53385577488285,40.16274056346023
+Christian Nørgaard,Christian,Nørgaard,6,Midfielder,Brentford FC,51.2,21.589737,17.426950471406997,16.5566234923036
+Cole Palmer,Cole,Palmer,20,Midfielder,Chelsea FC,39.4,44.442673,50.68798663419855,57.1218380254869
+Curtis Jones,Curtis,Jones,17,Midfielder,Liverpool FC,39.4,17.585281,11.253993851914537,12.053710310487473
+Daichi Kamada,Daichi,Kamada,6,Midfielder,Crystal Palace FC,57.0,56.733856,53.68241701889028,50.90975811648868
+David Brooks,David,Brooks,7,Midfielder,AFC Bournemouth,45.4,43.585705,40.56283101544342,37.29724348796654
+Declan Rice,Declan,Rice,41,Midfielder,Arsenal FC,56.991066997518615,56.82111,55.03116155954102,50.33268192657148
+Dominik Szoboszlai,Dominik,Szoboszlai,8,Midfielder,Liverpool FC,32.5,32.481075,38.540327108521495,32.08118853125051
+Eberechi Eze,Eberechi,Eze,10,Midfielder,Crystal Palace FC,4.8722084367245655,6.3366427,20.12204764974561,24.708441872917696
+Edson Álvarez,Edson,Álvarez,19,Midfielder,West Ham United FC,29.674909819639275,39.87278,44.573511885302295,28.172123081949408
+Elliot Anderson,Elliot,Anderson,32,Midfielder,Nottingham Forest FC,48.9,47.127407,42.76406284545962,48.13090510787146
+Emile Smith Rowe,Emile,Smith Rowe,0,Midfielder,Fulham FC,0.0,0.0,2.5261749728398475,8.942296967457914
+Emiliano Buendía,Emiliano,Buendía,10,Midfielder,Aston Villa FC,0.0,0.0,1.8883138175933207,2.2663286911860223
+Enzo Fernández,Enzo,Fernández,13,Midfielder,Chelsea FC,70.2,69.8658,60.64295522854267,62.74818743279146
+Facundo Buonanotte,Facundo,Buonanotte,40,Midfielder,Leicester City FC,35.1,34.1381,32.110411239901644,29.251717720812398
+Federico Chiesa,Federico,Chiesa,22,Midfielder,Liverpool FC,72.2090909090909,70.53757,47.145114621332,41.77201927158405
+Flynn Downes,Flynn,Downes,4,Midfielder,Southampton FC,0.0,1.6486949,9.951054075407612,25.686990532489457
+Fábio Carvalho,Fábio,Carvalho,18,Midfielder,Brentford FC,81.4,79.86292,62.85859930471558,51.5822874562706
+Guido Rodríguez,Guido,Rodríguez,5,Midfielder,West Ham United FC,0.0,14.830743,17.783211349044752,15.340274575426484
+Hamza Choudhury,Hamza,Choudhury,17,Midfielder,Leicester City FC,0.0,6.1769667,13.1592966690476,11.575215503265
+Harrison Reed,Harrison,Reed,6,Midfielder,Fulham FC,0.0,6.299172,13.153825258434184,14.43719056994891
+Harry Wilson,Harry,Wilson,8,Midfielder,Fulham FC,35.3,35.092186,32.45066124609278,28.04282769068493
+Harry Winks,Harry,Winks,20,Midfielder,Leicester City FC,58.1,47.210663,45.73849087315927,45.145981318429904
+Harvey Barnes,Harvey,Barnes,15,Midfielder,Newcastle United FC,50.55980066445183,40.46324,42.81844568322618,47.18937515946992
+Harvey Elliott,Harvey,Elliott,19,Midfielder,Liverpool FC,38.6,39.74572,46.545798639052485,44.841398180052245
+Ibrahim Sangaré,Ibrahim,Sangaré,6,Midfielder,Nottingham Forest FC,36.9,35.781704,18.880923525274515,20.02270815278028
+Idrissa Gana Gueye,Idrissa Gana,Gueye,27,Midfielder,Everton FC,46.2,45.676697,49.88605691937118,51.08821329580064
+Ilkay Gündogan,Ilkay,Gündogan,8,Midfielder,Manchester City FC,37.0,37.635155,43.1632025056088,55.55669654637746
+Isaac Hayden,Isaac,Hayden,8,Midfielder,Newcastle United FC,56.8,33.863117,35.68966622180017,34.36352900005687
+Jack Grealish,Jack,Grealish,10,Midfielder,Manchester City FC,44.669230769230765,44.03612,32.62605325889032,23.906144123184063
+Jack Hinshelwood,Jack,Hinshelwood,41,Midfielder,Brighton & Hove Albion FC,0.0,1.2369009,2.3910075983503094,8.270779696687224
+Jack Taylor,Jack,Taylor,14,Midfielder,Ipswich Town FC,64.6,30.546759,25.83443283977487,30.333408958850832
+Jacob Murphy,Jacob,Murphy,23,Midfielder,Newcastle United FC,49.0,49.05159,53.91506538726224,50.607139169246125
+Jacob Ramsey,Jacob,Ramsey,41,Midfielder,Aston Villa FC,0.0,1.3784975,6.4767550290591975,7.304622893180468
+Jakub Moder,Jakub,Moder,15,Midfielder,Brighton & Hove Albion FC,73.6,69.79506,41.73274980774879,29.58020589656348
+James Garner,James,Garner,37,Midfielder,Everton FC,28.899999999999995,29.566456,31.658889086356336,35.80316726833418
+James Maddison,James,Maddison,10,Midfielder,Tottenham Hotspur FC,37.8,38.74816,43.49686344543274,53.174099675876654
+James McAtee,James,McAtee,28,Midfielder,Manchester City FC,29.899999999999995,39.481228,39.40802462024735,37.31212370723658
+James Milner,James,Milner,6,Midfielder,Brighton & Hove Albion FC,0.0,1.4312996,5.453210438164756,11.911555413923756
+James Ward-Prowse,James,Ward-Prowse,8,Midfielder,Nottingham Forest FC,54.1,52.405945,49.18703840064187,44.567985729055486
+Jeanricner Bellegarde,Jeanricner,Bellegarde,17,Midfielder,Wolverhampton Wanderers FC,0.0,2.482138,6.374679516171468,9.22722021754962
+Jefferson Lerma,Jefferson,Lerma,8,Midfielder,Crystal Palace FC,64.88321167883211,64.0154,53.569749065449,38.94478431527904
+Jeffrey Schlupp,Jeffrey,Schlupp,15,Midfielder,Crystal Palace FC,32.8,33.331642,33.535329040454045,31.85189985488888
+Jens Cajuste,Jens,Cajuste,0,Midfielder,Ipswich Town FC,61.6,61.026024,54.45944351847257,47.98966505550542
+Jesper Lindstrøm,Jesper,Lindstrøm,29,Midfielder,Everton FC,0.0,2.4927678,12.240885611539396,17.46721409758815
+Joe Aribo,Joe Aribo,0.0,7,Midfielder,Southampton FC,70.1,45.269703,46.4186241172765,46.71726056214961
+Joe Willock,Joe,Willock,28,Midfielder,Newcastle United FC,0.0,0.78771114,4.620239658991821,4.153571137123387
+John  McGinn,John, McGinn,7,Midfielder,Aston Villa FC,29.7,30.879925,42.28809416164366,50.9714629671124
+Jorginho,Jorginho,0.0,20,Midfielder,Arsenal FC,0.0,0.51441115,19.397863486725683,40.50529617983823
+Josh Dasilva,Josh,Dasilva,10,Midfielder,Brentford FC,0.0,0.041247908,1.1486602845208993,1.7005197481569976
+João Gomes,João,Gomes,8,Midfielder,Wolverhampton Wanderers FC,37.44110429447853,37.42287,36.24667812004339,34.24023888128159
+Julio Enciso,Julio,Enciso,10,Midfielder,Brighton & Hove Albion FC,50.349830508474575,53.62896,50.91111340544772,51.6912695979447
+Kai Havertz,Kai,Havertz,29,Midfielder,Arsenal FC,42.79999999999999,42.4581,46.9440519787334,47.89469107764395
+Kalvin Phillips,Kalvin,Phillips,4,Midfielder,Ipswich Town FC,0.0,1.7169287,8.930031476043055,9.210065598437543
+Kaoru Mitoma,Kaoru,Mitoma,22,Midfielder,Brighton & Hove Albion FC,0.0,0.9219533,8.607673517948644,15.871975473651544
+Kasey McAteer,Kasey,McAteer,35,Midfielder,Leicester City FC,0.0,5.609262,8.229667225213284,11.288245281651964
+Kevin De Bruyne,Kevin,De Bruyne,17,Midfielder,Manchester City FC,85.4,85.39649,64.38667859894842,65.8373578889775
+Kevin Schade,Kevin,Schade,9,Midfielder,Brentford FC,0.0,0.26570266,12.409458807702332,25.881344671081614
+Kiernan Dewsbury-Hall,Kiernan,Dewsbury-Hall,22,Midfielder,Chelsea FC,51.1,51.8502,50.12941942871024,42.30474570591264
+Kobbie Mainoo,Kobbie,Mainoo,37,Midfielder,Manchester United FC,32.10666666666666,32.0573,29.212249222615064,20.238030265606888
+Lesley Ugochukwu,Lesley,Ugochukwu,16,Midfielder,Southampton FC,0.0,2.0307496,5.289506975453259,4.410055000349714
+Lewis Cook,Lewis,Cook,4,Midfielder,AFC Bournemouth,38.5,51.540348,50.26886492231751,42.74321567140344
+Lewis Miley,Lewis,Miley,67,Midfielder,Newcastle United FC,0.0,0.12332339,1.477065870187755,1.7597305011818918
+Lucas Bergvall,Lucas,Bergvall,15,Midfielder,Tottenham Hotspur FC,0.0,0.6288673,5.435857335484844,3.366430133979041
+Lucas Paquetá,Lucas Paquetá,0.0,10,Midfielder,West Ham United FC,33.384257602862256,32.89882,28.203766552436043,50.42761334035465
+Manuel Ugarte,Manuel,Ugarte,4,Midfielder,Manchester United FC,61.27156862745099,60.29623,58.92722517572349,50.37682969332288
+Marcus Tavernier,Marcus,Tavernier,16,Midfielder,AFC Bournemouth,0.0,2.0640905,5.68855115432674,7.217913052724778
+Mario Lemina,Mario,Lemina,5,Midfielder,Wolverhampton Wanderers FC,56.9,56.5854,52.94793659686092,50.00168113352028
+Martin Ødegaard,Martin,Ødegaard,8,Midfielder,Arsenal FC,39.9,40.799683,52.4835440484852,60.42791922180924
+Mason Mount,Mason,Mount,7,Midfielder,Manchester United FC,34.2,34.108406,22.352929818730757,15.024527998321435
+Massimo Luongo,Massimo,Luongo,25,Midfielder,Ipswich Town FC,47.9,47.712776,42.574661221640646,41.91976647613929
+Mateo Kovačić,Mateo,Kovačić,8,Midfielder,Manchester City FC,32.7,40.288795,42.14284001932993,50.42413421214808
+Mateus Fernandes,Mateus,Fernandes,0,Midfielder,Southampton FC,53.7,53.50653,48.10392086956006,53.10550660853959
+Matheus Nunes,Matheus,Nunes,8,Midfielder,Manchester City FC,37.9,37.377922,25.57687962560211,25.96229341469003
+Mathias Jensen,Mathias,Jensen,8,Midfielder,Brentford FC,0.0,2.2993176,5.696349740532723,7.620157145941732
+Mats Wieffer,Mats,Wieffer,20,Midfielder,Brighton & Hove Albion FC,47.3,47.555527,37.1687800988383,44.07405851721301
+Matt O’Riley,Matt O’Riley,0.0,33,Midfielder,Brighton & Hove Albion FC,67.6,67.446175,67.49751412164991,55.04677769461493
+Maxwel Cornet,Maxwel,Cornet,27,Midfielder,Southampton FC,36.36777777777778,33.54828,16.27651249999519,14.90585819033928
+Merino,0.0,Merino,8,Midfielder,Arsenal FC,32.3,35.302727,36.69827709577399,30.317083949037418
+Miguel Almirón,Miguel,Almirón,24,Midfielder,Newcastle United FC,47.24697406340058,46.422573,40.91025892817845,31.56092300784227
+Mikkel Damsgaard,Mikkel,Damsgaard,24,Midfielder,Brentford FC,0.0,46.53998,43.26216402704762,38.29531165219782
+Mohammed Kudus,Mohammed,Kudus,20,Midfielder,West Ham United FC,14.8,39.88375,45.47478612612526,57.1547977758916
+Moisés Caicedo,Moisés,Caicedo,25,Midfielder,Chelsea FC,62.6530612244898,62.471996,59.65832727751392,61.63570845082286
+Morgan Gibbs-White,Morgan,Gibbs-White,10,Midfielder,Nottingham Forest FC,38.23368700265252,39.22452,52.26402724929438,51.06703368453248
+Mykhailo Mudryk,Mykhailo,Mudryk,10,Midfielder,Chelsea FC,35.0,37.30214,41.392058373903055,44.961550478433125
+Nicolás Domínguez,Nicolás,Domínguez,16,Midfielder,Nottingham Forest FC,46.7,46.28261,38.9436209557717,25.411295482110564
+Oliver Skipp,Oliver,Skipp,4,Midfielder,Leicester City FC,0.0,2.122244,15.307976623814076,20.46980754855969
+Orel Mangala,Orel,Mangala,25,Midfielder,Everton FC,56.1,53.929382,39.62201489402743,41.18161429605095
+Oscar Bobb,Oscar,Bobb,0,Midfielder,Manchester City FC,38.7,37.97871,20.453755240403854,8.38777650632083
+Pablo Sarabia,Pablo,Sarabia,19,Midfielder,Wolverhampton Wanderers FC,23.1,24.468512,27.27068301186089,29.835279596491223
+Pape Matar Sarr,Pape Matar,Sarr,29,Midfielder,Tottenham Hotspur FC,46.5,47.561142,38.853316988973845,49.9797208895467
+Phil Foden,Phil,Foden,47,Midfielder,Manchester City FC,49.2,50.30338,47.05543553600798,46.96722662186451
+Philip Billing,Philip,Billing,29,Midfielder,AFC Bournemouth,0.0,0.27672902,17.473249128749497,15.698128333980012
+Renato Veiga,Renato,Veiga,40,Midfielder,Chelsea FC,0.0,1.3085878,13.019062625221908,13.75072013509794
+Rodrigo,Rodrigo,0.0,16,Midfielder,Manchester City FC,60.3,60.3691,50.46222740804395,25.508822363007702
+Rodrigo Bentancur,Rodrigo,Bentancur,30,Midfielder,Tottenham Hotspur FC,47.8,20.354877,21.397497951655296,25.50475948148028
+Roméo Lavia,Roméo,Lavia,45,Midfielder,Chelsea FC,0.0,10.590918,9.312378850917266,5.714523770087755
+Ross Barkley,Ross,Barkley,6,Midfielder,Aston Villa FC,45.8,45.38857,46.56031958031377,46.06990156990715
+Ryan Christie,Ryan,Christie,10,Midfielder,AFC Bournemouth,41.9,41.06152,39.98755607042186,45.37286539237061
+Ryan Fraser,Ryan,Fraser,26,Midfielder,Southampton FC,33.4,33.478565,27.344586414994986,24.88890068524617
+Ryan Gravenberch,Ryan,Gravenberch,8,Midfielder,Liverpool FC,0.0,0.54952615,7.68186968651641,11.632838481396425
+Ryan Sessegnon,Ryan,Sessegnon,19,Midfielder,Fulham FC,0.0,0.0,1.1486602845208993,0.9508359155960772
+Ryan Yates,Ryan,Yates,22,Midfielder,Nottingham Forest FC,31.5,39.805958,35.28737470913333,43.15669621006301
+Sam Morsy,Sam,Morsy,5,Midfielder,Ipswich Town FC,60.0,60.397358,53.18587940274939,43.04968106759325
+Samuel Szmodics,Samuel,Szmodics,23,Midfielder,Ipswich Town FC,70.54482758620689,48.946827,49.72661744362205,53.87267442692736
+Sander Berge,Sander,Berge,16,Midfielder,Fulham FC,37.9,38.1738,42.41663830565253,50.99260941458234
+Sandro Tonali,Sandro,Tonali,8,Midfielder,Newcastle United FC,0.0,0.74943346,5.861534672668356,5.74001189560453
+Saša Lukić,Saša,Lukić,28,Midfielder,Fulham FC,0.0,0.882019,15.687571601006349,35.36652809850846
+Sean Longstaff,Sean,Longstaff,36,Midfielder,Newcastle United FC,43.6,42.996433,45.84200400255365,55.08674854155738
+Solly March,Solly,March,7,Midfielder,Brighton & Hove Albion FC,0.0,0.0,1.540479691566881,3.312674350520043
+Thomas Doyle,Thomas,Doyle,20,Midfielder,Wolverhampton Wanderers FC,45.6,45.633278,38.78779198226126,39.70550638885607
+Thomas Partey,Thomas,Partey,5,Midfielder,Arsenal FC,55.0,54.873463,53.394507871764496,63.47009758694571
+Timothy Iroegbunam,Timothy,Iroegbunam,47,Midfielder,Everton FC,0.0,0.0,18.04530054951701,17.323251168719636
+Tobias Collyer,Tobias,Collyer,65,Midfielder,Manchester United FC,0.0,0.09674784,1.594065807933538,2.695212133991143
+Tom Cairney,Tom,Cairney,10,Midfielder,Fulham FC,65.1,63.44051,36.741610593287255,22.269920015546692
+Tomáš Souček,Tomáš,Souček,28,Midfielder,West Ham United FC,68.76928746928746,68.330795,53.08662295612372,35.80255402915581
+Tyler Adams,Tyler,Adams,14,Midfielder,AFC Bournemouth,34.4,34.368168,16.08598772308769,11.887832384922689
+Tyler-Jay Dibling,Tyler-Jay,Dibling,33,Midfielder,Southampton FC,0.0,0.0,1.561893786522116,2.0711855152145686
+Vitaly Janelt,Vitaly,Janelt,27,Midfielder,Brentford FC,44.4,45.779785,49.20926560715392,45.215142045468205
+Wataru Endō,Wataru,Endō,3,Midfielder,Liverpool FC,35.4,36.293957,44.27518625817149,43.92752375375687
+Wilfred Ndidi,Wilfred,Ndidi,25,Midfielder,Leicester City FC,33.8,35.579155,43.299833442835286,51.55274227843644
+Will Hughes,Will,Hughes,19,Midfielder,Crystal Palace FC,41.5,42.491077,43.69880788168543,48.48990131999073
+William Smallbone,William,Smallbone,16,Midfielder,Southampton FC,50.2,56.01976,51.91329899549248,51.138235468394825
+Yasin Ayari,Yasin,Ayari,26,Midfielder,Brighton & Hove Albion FC,0.0,0.46176764,11.122200183765466,25.5824755153615
+Yehor Yarmolyuk,Yehor,Yarmolyuk,33,Midfielder,Brentford FC,33.8,33.859966,27.52859135742093,30.08639452058605
+Youri Tielemans,Youri,Tielemans,8,Midfielder,Aston Villa FC,0.0,2.2863424,19.454706001196467,28.07777713588682
+Yunus Konak,Yunus,Konak,72,Midfielder,Brentford FC,0.0,0.0,0.8654763038410312,0.5222512585311314
+Yves Bissouma,Yves,Bissouma,38,Midfielder,Tottenham Hotspur FC,34.3,34.994427,33.52363023230461,41.41657279740821
+Adam Armstrong,Adam,Armstrong,9,Forward,Southampton FC,47.1,46.405117,48.049277479282296,41.320080472334425
+Adama Traoré,Adama,Traoré,11,Forward,Fulham FC,33.42357512953368,33.38658,33.02615008726801,29.88362523957236
+Alejandro Garnacho,Alejandro,Garnacho,49,Forward,Manchester United FC,0.0,0.03243565,12.440056190082649,18.348077993323397
+Alex Iwobi,Alex,Iwobi,17,Forward,Fulham FC,48.7,49.18983,54.79368922324469,62.99499777121629
+Alexander Isak,Alexander,Isak,14,Forward,Newcastle United FC,60.0,58.7981,57.216768011138406,49.878591445203696
+Ali Al Hamadi,Ali,Al Hamadi,16,Forward,Ipswich Town FC,27.8,26.21992,22.482943297965395,28.001082075810757
+Amad Diallo,Amad,Diallo,16,Forward,Manchester United FC,34.1,36.97872,35.61935408109531,27.016556614564887
+Anthony Elanga,Anthony,Elanga,21,Forward,Nottingham Forest FC,40.1,40.94232,43.30003757554808,42.23281026643049
+Anthony Gordon,Anthony,Gordon,10,Forward,Newcastle United FC,0.0,9.439835,23.071868262909188,22.91482550862486
+Antoine Semenyo,Antoine,Semenyo,24,Forward,AFC Bournemouth,63.7,50.631474,41.91867475410517,60.3962601633325
+Antony,Antony,0.0,39,Forward,Manchester United FC,11.346141732283463,11.770128,30.00032925729936,46.16587925806063
+Armando Broja,Armando,Broja,18,Forward,Everton FC,0.0,35.55348,28.46699679050604,21.64614098490922
+Beto,Beto,0.0,9,Forward,Everton FC,35.3,23.229113,22.842984840367787,19.20330533077344
+Bobby De Cordova-Reid,Bobby,De Cordova-Reid,14,Forward,Leicester City FC,36.1,43.25491,35.662551257275794,37.517648189118674
+Brajan Gruda,Brajan,Gruda,43,Forward,Brighton & Hove Albion FC,80.89137931034485,54.54243,45.508790043317774,41.22952077216753
+Brennan Johnson,Brennan,Johnson,0,Forward,Tottenham Hotspur FC,65.0,63.90367,55.15413184263812,52.662613726795286
+Brereton Díaz,0.0,Brereton Díaz,9,Forward,Southampton FC,36.8,38.170765,41.63867285335211,37.63514302450342
+Bryan Mbeumo,Bryan,Mbeumo,19,Forward,Brentford FC,84.2,57.316387,58.66211755007708,53.12847217109993
+Callum Hudson-Odoi,Callum,Hudson-Odoi,14,Forward,Nottingham Forest FC,47.06630434782608,47.61598,57.21753384914354,62.98789204494433
+Callum Wilson,Callum,Wilson,9,Forward,Newcastle United FC,0.0,0.8452863,9.525513480500516,28.664375049201144
+Cameron Archer,Cameron,Archer,19,Forward,Southampton FC,36.1,36.20269,30.707189771095457,34.07040212022521
+Carlos Forbs,Carlos,Forbs,11,Forward,Wolverhampton Wanderers FC,0.0,1.441591,9.470442249373194,19.975140495328983
+Carlos Vinícius,Carlos Vinícius,0.0,30,Forward,Fulham FC,60.8,22.035362,21.18136476922742,23.149862003199384
+Chiedozie Ogbene,Chiedozie,Ogbene,7,Forward,Ipswich Town FC,0.0,0.0,4.481273939686709,10.437604981169674
+Chris Wood ,Chris,Wood,11,Forward,Nottingham Forest FC,60.0,58.91209,48.22968329585207,48.784831579113245
+Christopher Nkunku,Christopher,Nkunku,18,Forward,Chelsea FC,0.0,0.0,14.075383118594882,36.093452156173925
+Cody Gakpo,Cody,Gakpo,18,Forward,Liverpool FC,51.3,51.297134,44.76892669931272,66.06882914034304
+Conor Chaplin,Conor,Chaplin,10,Forward,Ipswich Town FC,45.6,45.5851,45.578300276944944,41.40825414919958
+Crysencio Summerville,Crysencio,Summerville,10,Forward,West Ham United FC,50.8,50.62977,53.34743770930624,53.09203282807795
+Dango Ouattara,Dango,Ouattara,11,Forward,AFC Bournemouth,35.64017094017095,35.9215,42.1861020788193,63.379786721859205
+Danny Ings,Danny,Ings,18,Forward,West Ham United FC,40.1,37.481438,21.72189917969616,13.504548140932489
+Danny Welbeck,Danny,Welbeck,18,Forward,Brighton & Hove Albion FC,52.60000000000001,52.453033,44.49898345840816,46.05971827002135
+Darwin Nunez,Darwin,Nunez,27,Forward,Liverpool FC,85.1,52.152813,42.61722144071455,58.27818086578544
+David Datro Fofana,David Datro,Fofana,0,Forward,Chelsea FC,34.3,32.135605,28.059157770029987,28.836558407034666
+Dejan Kulusevski,Dejan,Kulusevski,21,Forward,Tottenham Hotspur FC,36.4843137254902,37.041824,40.034315661229705,44.319080791775576
+Diogo Jota,Diogo Jota,0.0,20,Forward,Liverpool FC,62.79999999999999,61.38769,47.34838652674272,22.108701096127604
+Dominic Calvert-Lewin,Dominic,Calvert-Lewin,9,Forward,Everton FC,0.0,0.5620744,17.215558675942063,38.43969914782655
+Dominic Solanke,Dominic,Solanke,9,Forward,Tottenham Hotspur FC,72.7,71.30709,58.20508739188696,47.841795908244976
+Dwight McNeil,Dwight,McNeil,7,Forward,Everton FC,53.0,52.954697,58.284293805348845,50.434901180625474
+Eddie Nketiah,Eddie,Nketiah,14,Forward,Crystal Palace FC,35.2,20.343973,2.690248711444327,3.4811492214638005
+Emmanuel Dennis,Emmanuel,Dennis,0,Forward,Nottingham Forest FC,42.9,42.75126,45.097292627177936,37.34796964286046
+Enes Ünal,Enes,Ünal,10,Forward,AFC Bournemouth,31.5,30.871721,23.831064232459617,23.531313318866285
+Erling Haaland,Erling,Haaland,9,Forward,Manchester City FC,100.0,99.59052,74.75169907549052,60.92721594999759
+Evan Ferguson,Evan,Ferguson,28,Forward,Brighton & Hove Albion FC,0.0,0.0,3.03806051780804,2.661358224980124
+Evanilson,Evanilson,0.0,30,Forward,AFC Bournemouth,0.0,4.7697783,9.547491483762526,4.801431588089996
+Gabriel Jesus,Gabriel,Jesus,9,Forward,Arsenal FC,38.1,37.69476,39.48695363760401,40.55488972196068
+Gabriel Martinelli,Gabriel,Martinelli,11,Forward,Arsenal FC,58.6,43.366177,35.10834048003387,35.30910253825918
+Garang Kuol,Garang,Kuol,0,Forward,Newcastle United FC,0.0,0.18149637,0.9504754902383368,0.5835465440973344
+George Hirst,George,Hirst,27,Forward,Ipswich Town FC,0.0,0.7036281,11.2698543755732,7.429900474435124
+Georginio Rutter,Georginio,Rutter,0,Forward,Brighton & Hove Albion FC,64.5,64.106926,55.822876395686734,45.53160912028872
+Gonçalo Guedes,Gonçalo,Guedes,7,Forward,Wolverhampton Wanderers FC,38.08930481283422,37.548927,43.14612761750633,50.30665068407973
+Gustavo Nunes,Gustavo,Nunes,0,Forward,Brentford FC,40.1,40.16914,36.385400009541776,33.335863351532126
+Heung-min Son,Heung-min,Son,7,Forward,Tottenham Hotspur FC,71.0,70.98869,71.33184219137313,54.21041395028506
+Hwang Hee-Chan,Hee-Chan,Hwang,11,Forward,Wolverhampton Wanderers FC,60.0,57.826435,51.98441897288762,47.74642708327086
+Hwang Ui-Jo,Ui-Jo,Hwang,16,Forward,Nottingham Forest FC,39.7,39.785385,36.57412266253592,23.369990838260566
+Iliman Ndiaye,Iliman,Ndiaye,0,Forward,Everton FC,38.5,38.698772,39.86669137874954,39.81445506012884
+Ismaïla Sarr,Ismaïla,Sarr,23,Forward,Crystal Palace FC,32.0,40.748207,40.18982496982052,40.71345314010891
+Issahaku Fatawu,Issahaku,Fatawu,18,Forward,Leicester City FC,46.1,46.08733,39.17725383904401,58.60744181877709
+Jack Harrison,Jack,Harrison,11,Forward,Everton FC,36.22167832167832,36.62634,47.88497889190445,51.789787191941286
+Jaden Philogene,Jaden,Philogene,25,Forward,Aston Villa FC,60.89999999999999,61.339275,60.18904718675326,62.74626692018264
+Jadon Sancho,Jadon,Sancho,25,Forward,Chelsea FC,80.4,79.32956,52.906340805059386,38.55522997019196
+Jamie Vardy,Jamie,Vardy,9,Forward,Leicester City FC,34.4,41.106133,48.37161032632115,40.19852753313632
+Jarrod Bowen,Jarrod,Bowen,20,Forward,West Ham United FC,43.8688679245283,43.34209,30.123343453511826,21.694845017335048
+Jean-Philippe Mateta,Jean-Philippe,Mateta,14,Forward,Crystal Palace FC,100.0,99.26866,67.36391582192606,57.06768988119964
+Jeremy Doku,Jeremy,Doku,11,Forward,Manchester City FC,78.3,48.53998,31.756396156629677,48.335636057162944
+Jhon Durán,Jhon,Durán,24,Forward,Aston Villa FC,0.0,0.0,11.83564275686721,17.721794991656456
+Joelinton,Joelinton,0.0,7,Forward,Newcastle United FC,0.0,0.0398207,7.151682199005289,18.933517404783117
+Jordan Ayew,Jordan,Ayew,9,Forward,Leicester City FC,49.7,50.756844,37.419293405098976,29.27724123170034
+Joshua Zirkzee,Joshua,Zirkzee,9,Forward,Manchester United FC,0.0,0.040470984,13.151547866626617,9.34054262807205
+Jota Silva,Jota,Silva,11,Forward,Nottingham Forest FC,60.0,59.948517,47.8495804798048,50.25968347560254
+João Félix,João Félix,0.0,0,Forward,Chelsea FC,0.0,0.19320562,21.84285055728525,32.06023660984732
+Justin Kluivert,Justin,Kluivert,19,Forward,AFC Bournemouth,63.3,63.648357,51.50563600073871,49.18389547621142
+Jørgen Larsen,Jørgen,Larsen,9,Forward,Wolverhampton Wanderers FC,35.3,36.34578,40.71351386568438,49.7673717811158
+Kamaldeen sulemana,Kamaldeen,sulemana,10,Forward,Southampton FC,0.0,39.783024,35.91813951357198,22.106053977154637
+Keane Lewis-Potter,Keane,Lewis-Potter,23,Forward,Brentford FC,34.7,35.31507,34.360293873482256,35.658439795580094
+Leandro Trossard,Leandro,Trossard,19,Forward,Arsenal FC,37.8,37.74545,44.42165365461653,42.55773233337186
+Leon Bailey,Leon,Bailey,9,Forward,Aston Villa FC,72.8,72.526375,60.116089471845406,54.727619870218845
+Liam Delap,Liam,Delap,20,Forward,Ipswich Town FC,0.0,0.23445922,9.501866890972307,17.619291704525313
+Luis Díaz,Luis,Díaz,7,Forward,Liverpool FC,39.57480620155039,39.6922,40.73173898915024,43.19475530717416
+Luis Guilherme,Luis Guilherme,0.0,17,Forward,West Ham United FC,79.1,79.04258,52.47997006113532,27.02534742984912
+Luis Sinisterra,Luis,Sinisterra,7,Forward,AFC Bournemouth,6.875388026607538,6.7725306,12.122860482245114,19.672668468420834
+Marc Guiu,Marc,Guiu,44,Forward,Chelsea FC,0.0,2.3676713,4.917340367610614,1.6357027351652778
+Marcus Rashford,Marcus,Rashford,10,Forward,Manchester United FC,35.6,33.305756,15.06900869255793,8.983817311850878
+Matheus Cunha,Matheus,Cunha,12,Forward,Wolverhampton Wanderers FC,83.4,83.484535,56.09132756774069,32.44012377829229
+Matheus França,Matheus,França,11,Forward,Crystal Palace FC,0.0,0.4733076,1.2634094174485684,1.4750075858333922
+Michail Antonio,Michail,Antonio,9,Forward,West Ham United FC,37.37150537634409,37.917507,44.31202968789357,45.863371215650304
+Mohamed Salah,Mohamed,Salah,11,Forward,Liverpool FC,43.1,43.12862,38.52158099615814,48.83969563529678
+Morgan Rogers,Morgan,Rogers,27,Forward,Aston Villa FC,70.8,66.81339,52.90029724048839,44.74373067237923
+Nathan Broadhead,Nathan,Broadhead,33,Forward,Ipswich Town FC,38.3,36.494953,27.253119069809728,20.870437599305102
+Niclas Füllkrug,Niclas,Füllkrug,11,Forward,West Ham United FC,0.0,1.4004015,14.998847492714964,35.17289029608955
+Nicolas Jackson,Nicolas,Jackson,15,Forward,Chelsea FC,60.0,59.04262,54.53094021421516,42.96045747343928
+Noni Madueke,Noni,Madueke,31,Forward,Chelsea FC,57.15555555555555,56.536003,52.82201748433234,40.41194411117097
+Odsonne Edouard,Odsonne,Edouard,22,Forward,Leicester City FC,60.0,59.90399,40.22265835700389,33.802645777642994
+Ollie Watkins,Ollie,Watkins,11,Forward,Aston Villa FC,0.0,0.20213981,14.20235957087946,21.739608550215696
+Omari Hutchinson,Omari,Hutchinson,20,Forward,Ipswich Town FC,42.6,42.553917,51.68308905419581,47.534167353613455
+Patson Daka,Patson,Daka,20,Forward,Leicester City FC,25.1,25.572247,23.309353699630226,25.77012230072734
+Paul Onuachu,Paul,Onuachu,12,Forward,Southampton FC,100.0,99.060524,68.6725802897928,50.03596040016527
+Pedro Neto,Pedro,Neto,7,Forward,Chelsea FC,39.0,36.550735,42.90857382320346,40.824220273091385
+Raheem Sterling,Raheem,Sterling,17,Forward,Arsenal FC,0.0,11.810635,9.78315742618704,16.011734698685483
+Ramón Sosa,Ramón,Sosa,11,Forward,Nottingham Forest FC,0.0,0.95573413,4.63486096855006,7.463808554520691
+Rasmus Højlund,Rasmus,Højlund,11,Forward,Manchester United FC,72.7,71.23951,60.04469646657587,44.94351153519173
+Raúl Jiménez,Raúl,Jiménez,7,Forward,Fulham FC,32.4,8.141493,6.20176125729586,6.3279624079379815
+Reiss Nelson,Reiss,Nelson,24,Forward,Fulham FC,0.0,1.2524809,3.886056673187628,3.333941997006993
+Richarlison,Richarlison,0.0,9,Forward,Tottenham Hotspur FC,0.0,4.7662835,19.143100682978567,36.57500228491543
+Rodrigo Gomes,Rodrigo,Gomes,19,Forward,Wolverhampton Wanderers FC,40.8,40.061703,30.80520240702427,20.83399192280716
+Rodrigo Muniz,Rodrigo,Muniz,19,Forward,Fulham FC,33.9,40.70422,41.26469650397189,36.09362841442271
+Ross Stewart,Ross,Stewart,11,Forward,Southampton FC,0.0,0.42198515,8.496145784999847,8.208098418279505
+Samuel Amo-Ameyaw,Samuel,Amo-Ameyaw,27,Forward,Southampton FC,0.0,0.48404685,3.3102094789516787,0.0944126487499712
+Saša Kalajdžić,Saša,Kalajdžić,9,Forward,Wolverhampton Wanderers FC,0.0,0.0,1.35027308693294,3.951836268900803
+Simon Adingra,Simon,Adingra,24,Forward,Brighton & Hove Albion FC,39.2,39.32141,44.38216710337837,52.67938117671147
+Stephy Mavididi,Stephy,Mavididi,10,Forward,Leicester City FC,81.5,79.826065,62.15458711346668,50.46300949621951
+Sávio,Sávio,0.0,26,Forward,Manchester City FC,79.6,79.36209,61.19506923348063,46.8071566306478
+Taiwo Awoniyi,Taiwo,Awoniyi,14,Forward,Nottingham Forest FC,0.0,0.028748808,9.399846776037348,10.31863602055439
+Thiago,Thiago,0.0,99,Forward,Brentford FC,76.6,48.117836,55.64318478721932,48.18096002383432
+Timo Werner,Timo,Werner,16,Forward,Tottenham Hotspur FC,35.5,35.431686,36.53559593499694,26.838693177390336
+Wesley Burns,Wesley,Burns,7,Forward,Ipswich Town FC,0.0,0.121977165,5.146857559534408,23.450389554720516
+William Osula,William,Osula,32,Forward,Newcastle United FC,0.0,23.832804,23.57788042635476,22.15692896187334
+Wilson Odobert,Wilson,Odobert,28,Forward,Tottenham Hotspur FC,48.7,48.79359,51.09268639514788,46.48695555607407
+Yankuba Minteh,Yankuba,Minteh,0,Forward,Brighton & Hove Albion FC,34.9,35.294807,34.64907582400279,36.72919977016619
+Yoane Wissa,Yoane,Wissa,11,Forward,Brentford FC,86.2,85.18964,63.28855748454658,51.7267296339432
+Youssef Chermiti,Youssef,Chermiti,28,Forward,Everton FC,0.0,0.057138294,17.967697191420164,22.60855547174252
