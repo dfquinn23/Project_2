@@ -1,0 +1,6 @@
+season_name,element_code,start_cost,end_cost,total_points,minutes,goals_scored,assists,clean_sheets,goals_conceded,own_goals,penalties_saved,penalties_missed,yellow_cards,red_cards,saves,bonus,bps,influence,creativity,threat,ict_index,starts,expected_goals,expected_assists,expected_goal_involvements,expected_goals_conceded
+2019/20,141746,80,90,117,1187,8,8,9,6,0,0,0,2,0,0,18,366,551.8,479.3,361.0,139.2,0,0.00,0.00,0.00,0.00
+2020/21,141746,105,113,244,3101,18,14,13,36,0,0,1,6,0,0,36,870,1292.6,1414.9,1253.0,396.2,0,0.00,0.00,0.00,0.00
+2021/22,141746,120,116,151,3110,10,7,8,54,0,0,2,10,0,0,15,626,906.6,1291.9,910.0,311.2,0,0.00,0.00,0.00,0.00
+2022/23,141746,100,95,176,3317,8,9,18,39,0,0,0,6,0,0,23,748,1004.2,1603.7,982.0,359.3,37,9.33,10.70,20.03,49.13
+2023/24,141746,85,85,166,3118,10,9,7,52,0,0,1,9,0,0,24,729,1101.6,1663.0,748.0,351.3,35,9.73,10.23,19.96,63.99

@@ -1,6 +1,7 @@
 ## Contents
 
 ### Directory Stucture
+```
 _defense_analysis/
 ├── data/
 │   ├── cleaned/
@@ -18,7 +19,7 @@ _defense_analysis/
 │       └── midfielder/
 ├── data_extraction/
 └── notebooks/
-
+```
 
 ### Data Extraction Scripts 
 Overview of Scripts
