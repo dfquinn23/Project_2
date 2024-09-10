@@ -44,7 +44,7 @@ def main():
     save_dir = '../data/raw/gameweeks'
     
     # Specify gameweeks to fetch
-    gameweeks_to_fetch = [1, 2, 3]  # Example: Fetch data for gameweeks 1, 2, and 3
+    gameweeks_to_fetch = [1, 2, 3, 4]  # Example: Fetch data for gameweeks 1, 2, and 3
     
     # Load the reference table
     reference_file_path = '../data/raw/player_reference.csv'
