@@ -1,922 +1,225 @@
-season_name,id,first_name,second_name,team,epl_predictions
-2023/24,113,Simon,Adingra,5,33.59
-2012/13,463,Adam,Lallana,17,30.91
-2013/14,463,Adam,Lallana,17,57.54
-2014/15,463,Adam,Lallana,17,29.8
-2015/16,463,Adam,Lallana,17,35.59
-2016/17,463,Adam,Lallana,17,43.73
-2017/18,463,Adam,Lallana,17,3.62
-2018/19,463,Adam,Lallana,17,6.41
-2019/20,463,Adam,Lallana,17,7.98
-2020/21,463,Adam,Lallana,17,18.13
-2021/22,463,Adam,Lallana,17,14.95
-2022/23,463,Adam,Lallana,17,13.92
-2023/24,463,Adam,Lallana,17,10.86
-2015/16,503,Son,Heung-min,18,22.84
-2016/17,503,Son,Heung-min,18,59.76
-2017/18,503,Son,Heung-min,18,62.81
-2018/19,503,Son,Heung-min,18,57.47
-2019/20,503,Son,Heung-min,18,56.31
-2020/21,503,Son,Heung-min,18,78.03
-2021/22,503,Son,Heung-min,18,85.46
-2022/23,503,Son,Heung-min,18,50.79
-2023/24,503,Son,Heung-min,18,72.11
-2016/17,259,Harry,Wilson,9,0.47
-2019/20,259,Harry,Wilson,9,27.98
-2020/21,259,Harry,Wilson,9,0.47
-2022/23,259,Harry,Wilson,9,22.16
-2023/24,259,Harry,Wilson,9,30.37
-2010/11,29,Ross,Barkley,2,0.47
-2011/12,29,Ross,Barkley,2,3.1
-2012/13,29,Ross,Barkley,2,3.25
-2013/14,29,Ross,Barkley,2,35.88
-2014/15,29,Ross,Barkley,2,25.38
-2015/16,29,Ross,Barkley,2,52.52
-2016/17,29,Ross,Barkley,2,46.42
-2017/18,29,Ross,Barkley,2,1.69
-2018/19,29,Ross,Barkley,2,25.95
-2019/20,29,Ross,Barkley,2,19.65
-2020/21,29,Ross,Barkley,2,26.67
-2021/22,29,Ross,Barkley,2,4.49
-2022/23,29,Ross,Barkley,2,0.47
-2023/24,29,Ross,Barkley,2,34.37
-2021/22,28,Leon,Bailey,2,12.1
-2022/23,28,Leon,Bailey,2,32.37
-2023/24,28,Leon,Bailey,2,49.63
-2022/23,502,Manor,Solomon,18,14.91
-2023/24,502,Manor,Solomon,18,6.03
-2021/22,489,Archie,Gray,18,0.47
-2022/23,489,Archie,Gray,18,0.47
-2022/23,462,Kamaldeen,Sulemana,17,15.37
-2022/23,106,Kevin,Schade,4,8.6
-2023/24,106,Kevin,Schade,4,10.14
-2022/23,312,Stefan,Bajčetić Maquieira,12,7.86
-2023/24,312,Stefan,Bajčetić Maquieira,12,0.72
-2016/17,514,Jarrod,Bowen,19,1.98
-2019/20,514,Jarrod,Bowen,19,15.67
-2020/21,514,Jarrod,Bowen,19,45.89
-2021/22,514,Jarrod,Bowen,19,73.41
-2022/23,514,Jarrod,Bowen,19,49.65
-2023/24,514,Jarrod,Bowen,19,63.24
-2021/22,299,Kasey,McAteer,11,0.64
-2022/23,299,Kasey,McAteer,11,0.47
-2016/17,16,Declan,Rice,1,0.64
-2017/18,16,Declan,Rice,1,13.9
-2018/19,16,Declan,Rice,1,27.62
-2019/20,16,Declan,Rice,1,35.41
-2020/21,16,Declan,Rice,1,29.39
-2021/22,16,Declan,Rice,1,30.49
-2022/23,16,Declan,Rice,1,36.34
-2023/24,16,Declan,Rice,1,54.02
-2018/19,17,Bukayo,Saka,1,0.64
-2019/20,17,Bukayo,Saka,1,26.35
-2020/21,17,Bukayo,Saka,1,37.41
-2021/22,17,Bukayo,Saka,1,58.53
-2022/23,17,Bukayo,Saka,1,69.94
-2023/24,17,Bukayo,Saka,1,76.37
-2021/22,515,Maxwel,Cornet,17,35.84
-2022/23,515,Maxwel,Cornet,17,3.4
-2023/24,515,Maxwel,Cornet,17,3.94
-2018/19,501,Oliver,Skipp,11,3.52
-2019/20,501,Oliver,Skipp,11,0.99
-2020/21,501,Oliver,Skipp,11,0.47
-2021/22,501,Oliver,Skipp,11,11.93
-2022/23,501,Oliver,Skipp,11,14.2
-2023/24,501,Oliver,Skipp,11,6.48
-2022/23,449,Ryan,Yates,16,18.72
-2023/24,449,Ryan,Yates,16,18.56
-2022/23,111,Yehor,Yarmoliuk,4,0.47
-2023/24,111,Yehor,Yarmoliuk,4,8.48
-2023/24,115,Carlos,Baleba,5,10.95
-2021/22,101,Christian,Nørgaard,4,33.78
-2022/23,101,Christian,Nørgaard,4,25.7
-2023/24,101,Christian,Nørgaard,4,24.72
-2021/22,459,Samuel,Edozie,17,0.47
-2022/23,459,Samuel,Edozie,17,6.81
-2019/20,471,Will,Smallbone,17,8.05
-2020/21,471,Will,Smallbone,17,1.98
-2021/22,471,Will,Smallbone,17,1.69
-2022/23,471,Will,Smallbone,17,0.47
-2018/19,317,Diogo,Teixeira da Silva,12,45.82
-2019/20,317,Diogo,Teixeira da Silva,12,36.97
-2020/21,317,Diogo,Teixeira da Silva,12,28.01
-2021/22,317,Diogo,Teixeira da Silva,12,58.85
-2022/23,317,Diogo,Teixeira da Silva,12,27.42
-2023/24,317,Diogo,Teixeira da Silva,12,36.72
-2011/12,277,Massimo,Luongo,10,0.47
-2023/24,511,Edson,Álvarez Velázquez,19,20.8
-2020/21,13,Martin,Ødegaard,1,13.33
-2021/22,13,Martin,Ødegaard,1,41.14
-2022/23,13,Martin,Ødegaard,1,70.02
-2023/24,13,Martin,Ødegaard,1,62.25
-2022/23,12,Ethan,Nwaneri,1,0.64
-2023/24,12,Ethan,Nwaneri,1,0.68
-2020/21,262,Nathan,Broadhead,10,0.64
-2021/22,262,Nathan,Broadhead,10,0.47
-2023/24,538,Tawanda,Chirewa,20,1.78
-2022/23,458,Shea,Charles,17,0.87
-2023/24,458,Shea,Charles,17,0.47
-2023/24,114,Benicio,Baker-Boaitey,5,0.9
-2021/22,102,Frank,Onyeka,4,12.1
-2022/23,102,Frank,Onyeka,4,13.02
-2023/24,102,Frank,Onyeka,4,14.18
-2013/14,328,Mohamed,Salah,12,10.51
-2014/15,328,Mohamed,Salah,12,0.99
-2017/18,328,Mohamed,Salah,12,100.0
-2018/19,328,Mohamed,Salah,12,86.65
-2019/20,328,Mohamed,Salah,12,78.08
-2020/21,328,Mohamed,Salah,12,75.76
-2021/22,328,Mohamed,Salah,12,88.2
-2022/23,328,Mohamed,Salah,12,80.17
-2023/24,328,Mohamed,Salah,12,71.6
-2016/17,300,Wilfred,Ndidi,11,22.88
-2017/18,300,Wilfred,Ndidi,11,26.89
-2018/19,300,Wilfred,Ndidi,11,28.87
-2019/20,300,Wilfred,Ndidi,11,27.39
-2020/21,300,Wilfred,Ndidi,11,24.89
-2021/22,300,Wilfred,Ndidi,11,15.35
-2022/23,300,Wilfred,Ndidi,11,13.4
-2020/21,314,Fábio,Freitas Gouveia Carvalho,4,5.66
-2022/23,314,Fábio,Freitas Gouveia Carvalho,4,8.68
-2022/23,499,Pape Matar,Sarr,18,4.47
-2023/24,499,Pape Matar,Sarr,18,27.82
-2021/22,274,Omari,Giraud-Hutchinson,10,0.47
-2022/23,274,Omari,Giraud-Hutchinson,10,0.8
-2017/18,10,Reiss,Nelson,9,1.69
-2018/19,10,Reiss,Nelson,9,0.47
-2019/20,10,Reiss,Nelson,9,10.18
-2020/21,10,Reiss,Nelson,9,0.99
-2021/22,10,Reiss,Nelson,9,0.64
-2022/23,10,Reiss,Nelson,9,11.01
-2023/24,10,Reiss,Nelson,9,3.48
-2022/23,249,Saša,Lukić,9,4.38
-2023/24,249,Saša,Lukić,9,14.04
-2022/23,315,Bobby,Clark,12,0.64
-2023/24,315,Bobby,Clark,12,1.16
-2019/20,329,Alexis,Mac Allister,12,4.22
-2020/21,329,Alexis,Mac Allister,12,14.94
-2021/22,329,Alexis,Mac Allister,12,29.78
-2022/23,329,Alexis,Mac Allister,12,46.98
-2023/24,329,Alexis,Mac Allister,12,35.2
-2022/23,117,Facundo,Buonanotte,11,9.93
-2023/24,117,Facundo,Buonanotte,11,19.25
-2021/22,103,Myles,Peart-Harris,4,0.47
-2023/24,103,Myles,Peart-Harris,4,0.64
-2022/23,602,Ryan,Trevitt,4,0.47
-2023/24,602,Ryan,Trevitt,4,0.47
-2023/24,158,Cesare,Casadei,6,0.99
-2013/14,400,Isaac,Hayden,15,0.47
-2014/15,400,Isaac,Hayden,15,0.47
-2017/18,400,Isaac,Hayden,15,12.68
-2018/19,400,Isaac,Hayden,15,23.51
-2019/20,400,Isaac,Hayden,15,25.16
-2020/21,400,Isaac,Hayden,15,14.55
-2021/22,400,Isaac,Hayden,15,9.82
-2023/24,400,Isaac,Hayden,15,0.47
-2019/20,366,Bruno,Borges Fernandes,14,33.37
-2020/21,366,Bruno,Borges Fernandes,14,81.26
-2021/22,366,Bruno,Borges Fernandes,14,50.86
-2022/23,366,Bruno,Borges Fernandes,14,57.7
-2023/24,366,Bruno,Borges Fernandes,14,55.05
-2021/22,372,Alejandro,Garnacho,14,0.64
-2022/23,372,Alejandro,Garnacho,14,13.1
-2023/24,372,Alejandro,Garnacho,14,42.1
-2009/10,89,Mikkel,Damsgaard,4,0.47
-2022/23,89,Mikkel,Damsgaard,4,9.34
-2023/24,89,Mikkel,Damsgaard,4,16.19
-2022/23,212,David,Ozoh,7,0.64
-2023/24,212,David,Ozoh,7,1.61
-2018/19,206,Jefferson,Lerma Solís,7,25.43
-2019/20,206,Jefferson,Lerma Solís,7,22.74
-2022/23,206,Jefferson,Lerma Solís,7,34.12
-2023/24,206,Jefferson,Lerma Solís,7,21.99
-2019/20,560,Pedro,Lomba Neto,6,18.92
-2020/21,560,Pedro,Lomba Neto,6,41.06
-2021/22,560,Pedro,Lomba Neto,6,8.06
-2022/23,560,Pedro,Lomba Neto,6,13.12
-2023/24,560,Pedro,Lomba Neto,6,28.56
-2022/23,548,Gonçalo Manuel,Ganchinho Guedes,20,10.31
-2023/24,548,Gonçalo Manuel,Ganchinho Guedes,20,0.47
-2017/18,76,Philip,Billing,3,7.08
-2018/19,76,Philip,Billing,3,21.11
-2019/20,76,Philip,Billing,3,22.43
-2022/23,76,Philip,Billing,3,39.36
-2023/24,76,Philip,Billing,3,20.14
-2018/19,62,David,Brooks,3,41.93
-2019/20,62,David,Brooks,3,7.84
-2022/23,62,David,Brooks,3,1.92
-2023/24,62,David,Brooks,3,7.77
-2022/23,63,Ryan,Christie,3,20.04
-2023/24,63,Ryan,Christie,3,32.8
-2023/24,77,Alex,Scott,3,12.59
-2018/19,7,Jorge Luiz,Frello Filho,1,29.65
-2019/20,7,Jorge Luiz,Frello Filho,1,29.26
-2020/21,7,Jorge Luiz,Frello Filho,1,37.43
-2021/22,7,Jorge Luiz,Frello Filho,1,36.45
-2022/23,7,Jorge Luiz,Frello Filho,1,26.46
-2023/24,7,Jorge Luiz,Frello Filho,1,13.26
-2020/21,213,Jesurun,Rak-Sakyi,7,0.47
-2021/22,213,Jesurun,Rak-Sakyi,7,1.26
-2022/23,213,Jesurun,Rak-Sakyi,7,0.47
-2023/24,213,Jesurun,Rak-Sakyi,7,1.98
-2019/20,398,Anthony,Gordon,15,5.74
-2020/21,398,Anthony,Gordon,15,0.99
-2021/22,398,Anthony,Gordon,15,30.77
-2022/23,398,Anthony,Gordon,15,22.63
-2023/24,398,Anthony,Gordon,15,61.17
-2022/23,429,Danilo,dos Santos de Oliveira,16,17.24
-2023/24,429,Danilo,dos Santos de Oliveira,16,21.83
-2020/21,373,Hannibal,Mejbri,14,0.64
-2021/22,373,Hannibal,Mejbri,14,0.86
-2023/24,373,Hannibal,Mejbri,14,4.06
-2023/24,173,Omari,Kellyman,6,0.99
-2022/23,601,Andrew,Moran,5,0.62
-2023/24,417,Sandro,Tonali,15,6.55
-2022/23,365,Antony Matheus,dos Santos,14,28.57
-2023/24,365,Antony Matheus,dos Santos,14,14.17
-2019/20,403,Joelinton Cássio,Apolinário de Lira,15,27.86
-2020/21,403,Joelinton Cássio,Apolinário de Lira,15,26.84
-2021/22,403,Joelinton Cássio,Apolinário de Lira,15,29.36
-2022/23,403,Joelinton Cássio,Apolinário de Lira,15,39.41
-2023/24,403,Joelinton Cássio,Apolinário de Lira,15,17.45
-2020/21,359,Kalvin,Phillips,10,23.6
-2021/22,359,Kalvin,Phillips,10,14.93
-2022/23,359,Kalvin,Phillips,10,4.44
-2023/24,359,Kalvin,Phillips,10,3.55
-2015/16,239,Adama,Traoré,9,6.51
-2016/17,239,Adama,Traoré,9,15.93
-2018/19,239,Adama,Traoré,9,12.15
-2019/20,239,Adama,Traoré,9,42.56
-2020/21,239,Adama,Traoré,9,30.57
-2021/22,239,Adama,Traoré,9,14.8
-2022/23,239,Adama,Traoré,9,23.27
-2023/24,239,Adama,Traoré,9,10.5
-2022/23,61,Jaidon,Anthony,3,20.59
-2023/24,61,Jaidon,Anthony,3,1.47
-2022/23,74,Dango,Ouattara,3,17.3
-2023/24,74,Dango,Ouattara,3,16.83
-2022/23,60,Tyler,Adams,3,17.15
-2023/24,60,Tyler,Adams,3,1.69
-2019/20,48,John,McGinn,2,29.01
-2020/21,48,John,McGinn,2,39.94
-2021/22,48,John,McGinn,2,34.71
-2022/23,48,John,McGinn,2,30.47
-2023/24,48,John,McGinn,2,41.01
-2019/20,562,Daniel,Castelo Podence,20,8.26
-2020/21,562,Daniel,Castelo Podence,20,26.46
-2021/22,562,Daniel,Castelo Podence,20,24.83
-2022/23,562,Daniel,Castelo Podence,20,32.79
-2023/24,562,Daniel,Castelo Podence,20,0.47
-2020/21,364,Amad,Diallo,14,3.21
-2021/22,364,Amad,Diallo,14,0.47
-2022/23,364,Amad,Diallo,14,0.47
-2023/24,364,Amad,Diallo,14,7.95
-2017/18,402,Jacob,Murphy,15,15.8
-2018/19,402,Jacob,Murphy,15,6.02
-2019/20,402,Jacob,Murphy,15,0.47
-2020/21,402,Jacob,Murphy,15,22.51
-2021/22,402,Jacob,Murphy,15,19.69
-2022/23,402,Jacob,Murphy,15,24.43
-2023/24,402,Jacob,Murphy,15,26.76
-2013/14,370,Christian,Eriksen,14,43.53
-2014/15,370,Christian,Eriksen,14,48.92
-2015/16,370,Christian,Eriksen,14,59.47
-2016/17,370,Christian,Eriksen,14,73.82
-2017/18,370,Christian,Eriksen,14,66.05
-2018/19,370,Christian,Eriksen,14,55.22
-2019/20,370,Christian,Eriksen,14,17.23
-2021/22,370,Christian,Eriksen,14,15.66
-2022/23,370,Christian,Eriksen,14,34.7
-2023/24,370,Christian,Eriksen,14,15.8
-2020/21,199,Eberechi,Eze,7,41.86
-2021/22,199,Eberechi,Eze,7,9.95
-2022/23,199,Eberechi,Eze,7,47.05
-2023/24,199,Eberechi,Eze,7,46.47
-2022/23,600,Yasin,Ayari,5,0.99
-2023/24,600,Yasin,Ayari,5,0.47
-2021/22,166,Kiernan,Dewsbury-Hall,6,23.63
-2022/23,166,Kiernan,Dewsbury-Hall,6,26.69
-2023/24,614,Jenson,Metcalfe,8,0.47
-2021/22,638,Salah-Eddine,Oulad M'hand,1,0.47
-2023/24,610,Mikey,Moore,18,0.64
-2023/24,604,Josh,King,9,0.47
-2017/18,348,Phil,Foden,13,2.5
-2018/19,348,Phil,Foden,13,6.87
-2019/20,348,Phil,Foden,13,22.52
-2020/21,348,Phil,Foden,13,42.89
-2021/22,348,Phil,Foden,13,47.83
-2022/23,348,Phil,Foden,13,44.63
-2023/24,348,Phil,Foden,13,75.06
-2022/23,406,Garang,Kuol,15,0.47
-2023/24,406,Garang,Kuol,15,0.47
-2019/20,360,Rodrigo 'Rodri',Hernandez,13,29.52
-2020/21,360,Rodrigo 'Rodri',Hernandez,13,28.7
-2021/22,360,Rodrigo 'Rodri',Hernandez,13,40.87
-2022/23,360,Rodrigo 'Rodri',Hernandez,13,36.99
-2023/24,360,Rodrigo 'Rodri',Hernandez,13,57.94
-2014/15,214,Jeffrey,Schlupp,7,30.46
-2015/16,214,Jeffrey,Schlupp,7,19.11
-2016/17,214,Jeffrey,Schlupp,7,15.25
-2017/18,214,Jeffrey,Schlupp,7,17.67
-2018/19,214,Jeffrey,Schlupp,7,26.79
-2019/20,214,Jeffrey,Schlupp,7,17.16
-2020/21,214,Jeffrey,Schlupp,7,22.74
-2021/22,214,Jeffrey,Schlupp,7,28.96
-2022/23,214,Jeffrey,Schlupp,7,29.0
-2023/24,214,Jeffrey,Schlupp,7,20.48
-2016/17,64,Lewis,Cook,3,7.83
-2017/18,64,Lewis,Cook,3,21.43
-2018/19,64,Lewis,Cook,3,7.08
-2019/20,64,Lewis,Cook,3,12.48
-2022/23,64,Lewis,Cook,3,17.02
-2023/24,64,Lewis,Cook,3,24.98
-2023/24,71,Justin,Kluivert,3,33.64
-2022/23,1,Fábio,Ferreira Vieira,1,11.84
-2023/24,1,Fábio,Ferreira Vieira,1,9.18
-2011/12,349,Jack,Grealish,13,0.47
-2012/13,349,Jack,Grealish,13,0.47
-2013/14,349,Jack,Grealish,13,0.64
-2014/15,349,Jack,Grealish,13,10.35
-2015/16,349,Jack,Grealish,13,9.97
-2019/20,349,Jack,Grealish,13,49.07
-2020/21,349,Jack,Grealish,13,44.47
-2021/22,349,Jack,Grealish,13,29.02
-2022/23,349,Jack,Grealish,13,40.12
-2023/24,349,Jack,Grealish,13,16.77
-2023/24,188,Lesley,Ugochukwu,17,4.37
-2022/23,605,Martial,Godo,9,0.47
-2022/23,177,Noni,Madueke,6,8.35
-2023/24,177,Noni,Madueke,6,24.22
-2022/23,607,Nico,O'Reilly,13,0.47
-2020/21,161,Carney,Chukwuemeka,6,0.64
-2021/22,161,Carney,Chukwuemeka,6,5.74
-2022/23,161,Carney,Chukwuemeka,6,4.52
-2023/24,161,Carney,Chukwuemeka,6,7.03
-2023/24,613,Toby,Collyer,14,0.47
-2022/23,439,Lewis,O'Brien,16,8.25
-2023/24,439,Lewis,O'Brien,16,0.47
-2022/23,411,Lewis,Miley,15,0.49
-2023/24,411,Lewis,Miley,15,17.78
-2016/17,217,Abdoulaye,Doucouré,8,13.93
-2017/18,217,Abdoulaye,Doucouré,8,43.39
-2018/19,217,Abdoulaye,Doucouré,8,42.75
-2019/20,217,Abdoulaye,Doucouré,8,36.29
-2020/21,217,Abdoulaye,Doucouré,8,27.2
-2021/22,217,Abdoulaye,Doucouré,8,29.81
-2022/23,217,Abdoulaye,Doucouré,8,24.95
-2023/24,217,Abdoulaye,Doucouré,8,37.65
-2022/23,565,Pablo,Sarabia,20,8.9
-2023/24,565,Pablo,Sarabia,20,31.85
-2017/18,203,Will,Hughes,7,17.54
-2018/19,203,Will,Hughes,7,28.14
-2019/20,203,Will,Hughes,7,20.17
-2021/22,203,Will,Hughes,7,12.94
-2022/23,203,Will,Hughes,7,11.77
-2023/24,203,Will,Hughes,7,19.92
-2022/23,98,Keane,Lewis-Potter,4,5.76
-2023/24,98,Keane,Lewis-Potter,4,24.17
-2022/23,67,Hamed,Traorè,3,5.74
-2023/24,67,Hamed,Traorè,3,1.16
-2023/24,66,Romain,Faivre,3,1.07
-2021/22,99,Bryan,Mbeumo,4,41.16
-2022/23,99,Bryan,Mbeumo,4,50.43
-2023/24,99,Bryan,Mbeumo,4,42.77
-2023/24,216,Adam,Wharton,7,17.98
-2018/19,410,Sean,Longstaff,15,10.2
-2019/20,410,Sean,Longstaff,15,15.68
-2020/21,410,Sean,Longstaff,15,13.53
-2021/22,410,Sean,Longstaff,15,15.6
-2022/23,410,Sean,Longstaff,15,31.31
-2023/24,410,Sean,Longstaff,15,37.9
-2021/22,174,Roméo,Lavia,6,0.47
-2022/23,174,Roméo,Lavia,6,19.63
-2023/24,174,Roméo,Lavia,6,0.99
-2023/24,612,Wilson,Odobert,18,27.55
-2023/24,151,Ângelo Gabriel,Borges Damaceno,6,0.47
-2022/23,179,Mykhailo,Mudryk,6,10.35
-2023/24,179,Mykhailo,Mudryk,6,29.24
-2011/12,186,Raheem,Sterling,1,0.99
-2012/13,186,Raheem,Sterling,1,28.76
-2013/14,186,Raheem,Sterling,1,44.89
-2014/15,186,Raheem,Sterling,1,54.55
-2015/16,186,Raheem,Sterling,1,35.32
-2016/17,186,Raheem,Sterling,1,49.57
-2017/18,186,Raheem,Sterling,1,78.35
-2018/19,186,Raheem,Sterling,1,79.39
-2019/20,186,Raheem,Sterling,1,70.37
-2020/21,186,Raheem,Sterling,1,52.01
-2021/22,186,Raheem,Sterling,1,55.62
-2022/23,186,Raheem,Sterling,1,34.13
-2023/24,186,Raheem,Sterling,1,41.65
-2015/16,192,Jordan,Ayew,11,33.32
-2016/17,192,Jordan,Ayew,11,14.61
-2017/18,192,Jordan,Ayew,11,37.46
-2018/19,192,Jordan,Ayew,11,17.75
-2019/20,192,Jordan,Ayew,11,45.8
-2020/21,192,Jordan,Ayew,11,24.91
-2021/22,192,Jordan,Ayew,11,29.83
-2022/23,192,Jordan,Ayew,11,33.47
-2023/24,192,Jordan,Ayew,11,36.27
-2022/23,435,Alex,Mighten,16,0.62
-2023/24,435,Alex,Mighten,16,0.47
-2020/21,384,Facundo,Pellistri Rebollo,14,0.47
-2022/23,384,Facundo,Pellistri Rebollo,14,0.99
-2023/24,384,Facundo,Pellistri Rebollo,14,3.17
-2022/23,233,Amadou,Onana,2,25.27
-2023/24,233,Amadou,Onana,2,22.03
-2020/21,569,Jaden,Philogene,2,0.64
-2021/22,569,Jaden,Philogene,2,0.64
-2022/23,569,Jaden,Philogene,2,0.47
-2023/24,569,Jaden,Philogene,2,0.62
-2021/22,94,Vitaly,Janelt,4,30.36
-2022/23,94,Vitaly,Janelt,4,27.51
-2023/24,94,Vitaly,Janelt,4,30.85
-2022/23,80,Luis,Sinisterra,3,18.12
-2023/24,80,Luis,Sinisterra,3,13.18
-2018/19,57,Youri,Tielemans,2,23.38
-2019/20,57,Youri,Tielemans,2,38.99
-2020/21,57,Youri,Tielemans,2,44.18
-2021/22,57,Youri,Tielemans,2,38.55
-2022/23,57,Youri,Tielemans,2,28.61
-2023/24,57,Youri,Tielemans,2,26.61
-2022/23,42,Boubacar,Kamara,2,16.76
-2023/24,42,Boubacar,Kamara,2,13.96
-2023/24,597,Myles,Lewis-Skelly,1,0.47
-2021/22,95,Mathias,Jensen,4,15.94
-2022/23,95,Mathias,Jensen,4,44.1
-2023/24,95,Mathias,Jensen,4,31.34
-2020/21,226,Tim,Iroegbunam,8,0.47
-2021/22,226,Tim,Iroegbunam,8,1.18
-2022/23,226,Tim,Iroegbunam,8,0.47
-2023/24,226,Tim,Iroegbunam,8,1.69
-2019/20,540,Luke,Cundle,20,0.47
-2020/21,540,Luke,Cundle,20,0.47
-2021/22,540,Luke,Cundle,20,2.26
-2022/23,540,Luke,Cundle,20,0.47
-2023/24,540,Luke,Cundle,20,0.47
-2018/19,391,Miguel,Almirón Rejala,15,10.29
-2019/20,391,Miguel,Almirón Rejala,15,35.18
-2020/21,391,Miguel,Almirón Rejala,15,31.03
-2021/22,391,Miguel,Almirón Rejala,15,17.3
-2022/23,391,Miguel,Almirón Rejala,15,51.51
-2023/24,391,Miguel,Almirón Rejala,15,24.78
-2015/16,385,Marcus,Rashford,14,22.64
-2016/17,385,Marcus,Rashford,14,28.48
-2017/18,385,Marcus,Rashford,14,36.89
-2018/19,385,Marcus,Rashford,14,45.59
-2019/20,385,Marcus,Rashford,14,64.92
-2020/21,385,Marcus,Rashford,14,58.83
-2021/22,385,Marcus,Rashford,14,23.62
-2022/23,385,Marcus,Rashford,14,69.12
-2023/24,385,Marcus,Rashford,14,36.56
-2017/18,434,Callum,Hudson-Odoi,16,0.87
-2018/19,434,Callum,Hudson-Odoi,16,6.16
-2019/20,434,Callum,Hudson-Odoi,16,16.8
-2020/21,434,Callum,Hudson-Odoi,16,19.67
-2021/22,434,Callum,Hudson-Odoi,16,16.1
-2022/23,434,Callum,Hudson-Odoi,16,0.47
-2023/24,434,Callum,Hudson-Odoi,16,36.32
-2017/18,420,Joe,Willock,15,0.99
-2018/19,420,Joe,Willock,15,1.26
-2019/20,420,Joe,Willock,15,11.84
-2020/21,420,Joe,Willock,15,25.28
-2021/22,420,Joe,Willock,15,25.89
-2022/23,420,Joe,Willock,15,38.02
-2023/24,420,Joe,Willock,15,6.78
-2023/24,346,Jérémy,Doku,13,31.32
-2022/23,193,Cheick,Doucouré,7,23.8
-2023/24,193,Cheick,Doucouré,7,8.63
-2022/23,150,Andrey,Nascimento dos Santos,6,0.47
-2023/24,150,Andrey,Nascimento dos Santos,6,0.5
-2019/20,622,Sander,Berge,9,12.58
-2020/21,622,Sander,Berge,9,12.97
-2023/24,622,Sander,Berge,9,24.55
-2021/22,608,Tyler,Dibling,17,0.47
-2022/23,378,Kobbie,Mainoo,14,0.62
-2023/24,378,Kobbie,Mainoo,14,25.65
-2020/21,224,Jack,Harrison,8,54.64
-2021/22,224,Jack,Harrison,8,39.43
-2022/23,224,Jack,Harrison,8,44.0
-2023/24,224,Jack,Harrison,8,29.95
-2017/18,230,Dwight,McNeil,8,0.64
-2018/19,230,Dwight,McNeil,8,26.35
-2019/20,230,Dwight,McNeil,8,40.79
-2020/21,230,Dwight,McNeil,8,38.21
-2021/22,230,Dwight,McNeil,8,28.24
-2022/23,230,Dwight,McNeil,8,41.44
-2023/24,230,Dwight,McNeil,8,42.97
-2022/23,83,Marcus,Tavernier,3,28.0
-2023/24,83,Marcus,Tavernier,3,30.09
-2023/24,97,Yunus Emre,Konak,4,0.47
-2023/24,54,Morgan,Rogers,2,12.2
-2017/18,557,Mario,Lemina,20,16.97
-2018/19,557,Mario,Lemina,20,17.45
-2019/20,557,Mario,Lemina,20,0.47
-2020/21,557,Mario,Lemina,20,16.4
-2022/23,557,Mario,Lemina,20,12.74
-2023/24,557,Mario,Lemina,20,30.86
-2021/22,386,Jadon,Sancho,6,28.35
-2022/23,386,Jadon,Sancho,6,34.91
-2023/24,386,Jadon,Sancho,6,0.99
-2017/18,392,Harvey,Barnes,15,0.64
-2018/19,392,Harvey,Barnes,15,14.17
-2019/20,392,Harvey,Barnes,15,44.26
-2020/21,392,Harvey,Barnes,15,41.68
-2021/22,392,Harvey,Barnes,15,44.6
-2022/23,392,Harvey,Barnes,15,47.01
-2023/24,392,Harvey,Barnes,15,21.22
-2012/13,345,Kevin,De Bruyne,13,0.47
-2013/14,345,Kevin,De Bruyne,13,3.4
-2015/16,345,Kevin,De Bruyne,13,45.42
-2016/17,345,Kevin,De Bruyne,13,65.82
-2017/18,345,Kevin,De Bruyne,13,69.73
-2018/19,345,Kevin,De Bruyne,13,17.93
-2019/20,345,Kevin,De Bruyne,13,82.14
-2020/21,345,Kevin,De Bruyne,13,46.09
-2021/22,345,Kevin,De Bruyne,13,63.34
-2022/23,345,Kevin,De Bruyne,13,60.38
-2023/24,345,Kevin,De Bruyne,13,32.62
-2020/21,423,Elliot,Anderson,16,0.64
-2021/22,423,Elliot,Anderson,16,0.47
-2022/23,423,Elliot,Anderson,16,7.29
-2023/24,423,Elliot,Anderson,16,13.1
-2022/23,190,Naouirou,Ahamada,7,1.07
-2023/24,190,Naouirou,Ahamada,7,3.54
-2022/23,621,João,Félix Sequeira,6,17.83
-2020/21,157,Moisés,Caicedo Corozo,6,0.47
-2021/22,157,Moisés,Caicedo Corozo,6,10.31
-2022/23,157,Moisés,Caicedo Corozo,6,26.88
-2023/24,157,Moisés,Caicedo Corozo,6,26.08
-2016/17,625,Ilkay,Gündogan,13,12.39
-2017/18,625,Ilkay,Gündogan,13,26.61
-2018/19,625,Ilkay,Gündogan,13,37.53
-2019/20,625,Ilkay,Gündogan,13,22.11
-2020/21,625,Ilkay,Gündogan,13,52.13
-2021/22,625,Ilkay,Gündogan,13,40.9
-2022/23,625,Ilkay,Gündogan,13,45.2
-2018/19,433,Morgan,Gibbs-White,16,8.82
-2019/20,433,Morgan,Gibbs-White,16,3.21
-2020/21,433,Morgan,Gibbs-White,16,6.31
-2021/22,433,Morgan,Gibbs-White,16,0.58
-2022/23,433,Morgan,Gibbs-White,16,51.2
-2023/24,433,Morgan,Gibbs-White,16,47.55
-2019/20,382,Mason,Mount,14,47.32
-2020/21,382,Mason,Mount,14,48.77
-2021/22,382,Mason,Mount,14,55.86
-2022/23,382,Mason,Mount,14,27.43
-2023/24,382,Mason,Mount,14,7.84
-2023/24,547,Enso,González,20,0.64
-2019/20,9,Gabriel,Martinelli Silva,1,12.31
-2020/21,9,Gabriel,Martinelli Silva,1,12.2
-2021/22,9,Gabriel,Martinelli Silva,1,38.0
-2022/23,9,Gabriel,Martinelli Silva,1,67.11
-2023/24,9,Gabriel,Martinelli Silva,1,39.17
-2022/23,553,João Victor,Gomes da Silva,20,8.04
-2023/24,553,João Victor,Gomes da Silva,20,25.01
-2023/24,584,Ben,Brereton Díaz,17,22.33
-2022/23,78,Antoine,Semenyo,3,5.68
-2023/24,78,Antoine,Semenyo,3,38.28
-2019/20,585,Ismaïla,Sarr,7,36.53
-2021/22,585,Ismaïla,Sarr,7,28.22
-2023/24,208,Matheus,França de Oliveira,7,6.78
-2023/24,87,Ethan,Brierley,4,0.47
-2016/17,397,Ryan,Fraser,17,31.38
-2017/18,397,Ryan,Fraser,17,30.3
-2018/19,397,Ryan,Fraser,17,59.84
-2019/20,397,Ryan,Fraser,17,26.94
-2020/21,397,Ryan,Fraser,17,14.31
-2021/22,397,Ryan,Fraser,17,24.81
-2022/23,397,Ryan,Fraser,17,4.44
-2023/24,397,Ryan,Fraser,17,0.47
-2023/24,426,Josh,Bowler,16,0.47
-2018/19,354,Mateo,Kovačić,13,19.9
-2019/20,354,Mateo,Kovačić,13,21.5
-2020/21,354,Mateo,Kovačić,13,18.26
-2021/22,354,Mateo,Kovačić,13,26.43
-2022/23,354,Mateo,Kovačić,13,17.3
-2023/24,354,Mateo,Kovačić,13,17.86
-2020/21,432,Anthony,Elanga,16,3.93
-2021/22,432,Anthony,Elanga,16,21.39
-2022/23,432,Anthony,Elanga,16,6.93
-2023/24,432,Anthony,Elanga,16,42.13
-2022/23,368,Carlos Henrique,Casimiro,14,28.76
-2023/24,368,Carlos Henrique,Casimiro,14,19.49
-2023/24,181,Christopher,Nkunku,6,7.92
-2022/23,618,Georginio,Rutter,5,5.83
-2022/23,168,Enzo,Fernández,6,16.82
-2023/24,168,Enzo,Fernández,6,25.99
-2022/23,140,Cameron,Peupion,5,0.6
-2023/24,140,Cameron,Peupion,5,0.47
-2023/24,632,Chiedozie,Ogbene,10,28.13
-2022/23,197,Malcolm,Ebiowei,7,0.99
-2023/24,197,Malcolm,Ebiowei,7,0.47
-2017/18,342,Bernardo,Veiga de Carvalho e Silva,13,34.78
-2018/19,342,Bernardo,Veiga de Carvalho e Silva,13,51.7
-2019/20,342,Bernardo,Veiga de Carvalho e Silva,13,39.77
-2020/21,342,Bernardo,Veiga de Carvalho e Silva,13,31.62
-2021/22,342,Bernardo,Veiga de Carvalho e Silva,13,52.1
-2022/23,342,Bernardo,Veiga de Carvalho e Silva,13,35.55
-2023/24,342,Bernardo,Veiga de Carvalho e Silva,13,46.74
-2022/23,356,Matheus Luiz,Nunes,13,25.84
-2023/24,356,Matheus Luiz,Nunes,13,11.74
-2016/17,381,Scott,McTominay,14,1.18
-2017/18,381,Scott,McTominay,14,7.19
-2018/19,381,Scott,McTominay,14,13.71
-2019/20,381,Scott,McTominay,14,25.27
-2020/21,381,Scott,McTominay,14,30.27
-2021/22,381,Scott,McTominay,14,23.18
-2022/23,381,Scott,McTominay,14,12.42
-2023/24,381,Scott,McTominay,14,32.37
-2021/22,550,Hwang,Hee-chan,20,27.12
-2022/23,550,Hwang,Hee-chan,20,20.08
-2023/24,550,Hwang,Hee-chan,20,44.69
-2019/20,544,Tommy,Doyle,20,0.64
-2020/21,544,Tommy,Doyle,20,0.47
-2021/22,544,Tommy,Doyle,20,0.47
-2023/24,544,Tommy,Doyle,20,12.52
-2015/16,222,Idrissa,Gueye,8,24.72
-2016/17,222,Idrissa,Gueye,8,25.05
-2017/18,222,Idrissa,Gueye,8,28.1
-2018/19,222,Idrissa,Gueye,8,25.59
-2019/20,222,Idrissa,Gueye,8,0.47
-2022/23,222,Idrissa,Gueye,8,22.75
-2023/24,222,Idrissa,Gueye,8,24.52
-2020/21,587,Crysencio,Summerville,19,0.47
-2021/22,587,Crysencio,Summerville,19,1.69
-2022/23,587,Crysencio,Summerville,19,25.51
-2020/21,53,Jacob,Ramsey,2,7.2
-2021/22,53,Jacob,Ramsey,2,36.7
-2022/23,53,Jacob,Ramsey,2,46.05
-2023/24,53,Jacob,Ramsey,2,12.11
-2018/19,223,James,Garner,8,0.64
-2019/20,223,James,Garner,8,0.64
-2020/21,223,James,Garner,8,0.47
-2022/23,223,James,Garner,8,9.75
-2023/24,223,James,Garner,8,27.7
-2022/23,551,Joe,Hodge,20,1.92
-2023/24,551,Joe,Hodge,20,0.47
-2021/22,90,Josh,Dasilva,4,2.77
-2022/23,90,Josh,Dasilva,4,25.1
-2023/24,90,Josh,Dasilva,4,0.89
-2021/22,394,Bruno,Guimarães Rodriguez Moura,15,21.52
-2022/23,394,Bruno,Guimarães Rodriguez Moura,15,36.08
-2023/24,394,Bruno,Guimarães Rodriguez Moura,15,50.19
-2023/24,431,Nicolás,Domínguez,16,22.42
-2021/22,357,James,McAtee,13,0.64
-2022/23,357,James,McAtee,13,0.47
-2023/24,357,James,McAtee,13,26.15
-2023/24,343,Oscar,Bobb,13,10.23
-2021/22,419,Joe,White,15,0.47
-2023/24,419,Joe,White,15,0.57
-2019/20,182,Cole,Palmer,6,0.47
-2020/21,182,Cole,Palmer,6,0.47
-2021/22,182,Cole,Palmer,6,3.48
-2022/23,182,Cole,Palmer,6,5.95
-2023/24,182,Cole,Palmer,6,80.29
-2017/18,633,Mikel,Merino,1,14.26
-2018/19,633,Mikel,Merino,1,0.47
-2021/22,141,Jeremy,Sarmiento Morante,5,0.99
-2022/23,141,Jeremy,Sarmiento Morante,5,5.45
-2023/24,141,Jeremy,Sarmiento Morante,5,0.47
-2020/21,169,Conor,Gallagher,6,24.54
-2021/22,169,Conor,Gallagher,6,46.82
-2022/23,169,Conor,Gallagher,6,21.37
-2023/24,169,Conor,Gallagher,6,43.83
-2022/23,126,Jack,Hinshelwood,5,0.62
-2023/24,126,Jack,Hinshelwood,5,15.57
-2017/18,132,Solly,March,5,21.19
-2018/19,132,Solly,March,5,32.71
-2019/20,132,Solly,March,5,13.24
-2020/21,132,Solly,March,5,24.05
-2021/22,132,Solly,March,5,18.9
-2022/23,132,Solly,March,5,49.23
-2023/24,132,Solly,March,5,12.78
-2017/18,324,Curtis,Jones,12,0.47
-2018/19,324,Curtis,Jones,12,0.47
-2019/20,324,Curtis,Jones,12,4.2
-2020/21,324,Curtis,Jones,12,16.33
-2021/22,324,Curtis,Jones,12,12.58
-2022/23,324,Curtis,Jones,12,17.62
-2023/24,324,Curtis,Jones,12,13.76
-2023/24,442,Ibrahim,Sangaré,16,8.26
-2023/24,330,James,McConnell,12,0.64
-2022/23,318,Ben,Doak,12,0.83
-2023/24,318,Ben,Doak,12,0.68
-2017/18,287,Hamza,Choudhury,11,5.73
-2018/19,287,Hamza,Choudhury,11,7.05
-2019/20,287,Hamza,Choudhury,11,11.57
-2020/21,287,Hamza,Choudhury,11,4.55
-2021/22,287,Hamza,Choudhury,11,4.42
-2022/23,287,Hamza,Choudhury,11,0.47
-2023/24,34,Moussa,Diaby,2,45.2
-2020/21,20,Thomas,Partey,1,17.15
-2021/22,20,Thomas,Partey,1,25.29
-2022/23,20,Thomas,Partey,1,29.25
-2023/24,20,Thomas,Partey,1,7.65
-2021/22,537,Francisco Jorge,Tomás Oliveira,20,7.15
-2022/23,537,Francisco Jorge,Tomás Oliveira,20,0.47
-2023/24,537,Francisco Jorge,Tomás Oliveira,20,0.47
-2018/19,494,James,Maddison,18,45.54
-2019/20,494,James,Maddison,18,40.63
-2020/21,494,James,Maddison,18,42.76
-2021/22,494,James,Maddison,18,63.68
-2022/23,494,James,Maddison,18,45.15
-2023/24,494,James,Maddison,18,39.56
-2021/22,480,Rodrigo,Bentancur,18,18.35
-2022/23,480,Rodrigo,Bentancur,18,24.68
-2023/24,480,Rodrigo,Bentancur,18,10.92
-2018/19,319,Harvey,Elliott,12,0.64
-2019/20,319,Harvey,Elliott,12,0.64
-2020/21,319,Harvey,Elliott,12,0.47
-2021/22,319,Harvey,Elliott,12,4.64
-2022/23,319,Harvey,Elliott,12,20.5
-2023/24,319,Harvey,Elliott,12,27.36
-2021/22,331,Tyler,Morton,12,0.9
-2017/18,125,Pascal,Groß,5,50.2
-2018/19,125,Pascal,Groß,5,25.77
-2019/20,125,Pascal,Groß,5,25.99
-2020/21,125,Pascal,Groß,5,37.73
-2021/22,125,Pascal,Groß,5,30.01
-2022/23,125,Pascal,Groß,5,53.73
-2023/24,125,Pascal,Groß,5,49.77
-2023/24,119,Mahmoud,Dahoud,5,5.3
-2021/22,327,Luis,Díaz,12,22.92
-2022/23,327,Luis,Díaz,12,21.91
-2023/24,327,Luis,Díaz,12,47.62
-2018/19,482,Yves,Bissouma,18,15.13
-2019/20,482,Yves,Bissouma,18,14.02
-2020/21,482,Yves,Bissouma,18,26.48
-2021/22,482,Yves,Bissouma,18,21.91
-2022/23,482,Yves,Bissouma,18,8.12
-2023/24,482,Yves,Bissouma,18,15.2
-2015/16,247,Alex,Iwobi,9,13.64
-2016/17,247,Alex,Iwobi,9,27.3
-2017/18,247,Alex,Iwobi,9,30.52
-2018/19,247,Alex,Iwobi,9,33.9
-2019/20,247,Alex,Iwobi,9,17.06
-2020/21,247,Alex,Iwobi,9,19.42
-2021/22,247,Alex,Iwobi,9,24.85
-2022/23,247,Alex,Iwobi,9,43.19
-2023/24,247,Alex,Iwobi,9,33.84
-2023/24,535,Jean-Ricner,Bellegarde,20,15.1
-2020/21,509,Timo,Werner,18,52.04
-2021/22,509,Timo,Werner,18,24.54
-2022/23,509,Timo,Werner,18,0.47
-2023/24,509,Timo,Werner,18,16.04
-2018/19,290,Bobby,De Cordova-Reid,11,26.91
-2020/21,290,Bobby,De Cordova-Reid,11,32.08
-2022/23,290,Bobby,De Cordova-Reid,11,30.21
-2023/24,290,Bobby,De Cordova-Reid,11,29.46
-2019/20,23,Leandro,Trossard,1,33.73
-2020/21,23,Leandro,Trossard,1,41.45
-2021/22,23,Leandro,Trossard,1,45.34
-2022/23,23,Leandro,Trossard,1,50.32
-2023/24,23,Leandro,Trossard,1,44.92
-2021/22,37,Lewis,Dobbin,2,0.9
-2023/24,37,Lewis,Dobbin,2,5.81
-2021/22,285,Boubakary,Soumaré,11,12.26
-2022/23,285,Boubakary,Soumaré,11,13.41
-2022/23,534,Boubacar,Traoré,20,5.54
-2023/24,534,Boubacar,Traoré,20,8.01
-2022/23,246,Luke,Harris,9,0.74
-2023/24,246,Luke,Harris,9,1.0
-2021/22,483,Bryan,Gil Salvatierra,18,0.99
-2022/23,483,Bryan,Gil Salvatierra,18,3.26
-2023/24,483,Bryan,Gil Salvatierra,18,3.19
-2022/23,118,Amario,Cozier-Duberry,5,0.47
-2019/20,124,Billy,Gilmour,5,3.45
-2020/21,124,Billy,Gilmour,5,3.7
-2021/22,124,Billy,Gilmour,5,17.25
-2022/23,124,Billy,Gilmour,5,7.44
-2023/24,124,Billy,Gilmour,5,19.81
-2022/23,130,Kacper,Kozłowski,5,0.47
-2023/24,130,Kacper,Kozłowski,5,0.47
-2006/07,134,James,Milner,5,35.71
-2007/08,134,James,Milner,5,26.12
-2008/09,134,James,Milner,5,41.66
-2009/10,134,James,Milner,5,55.01
-2010/11,134,James,Milner,5,30.71
-2011/12,134,James,Milner,5,28.2
-2012/13,134,James,Milner,5,30.85
-2013/14,134,James,Milner,5,21.62
-2014/15,134,James,Milner,5,34.53
-2015/16,134,James,Milner,5,40.33
-2016/17,134,James,Milner,5,44.78
-2017/18,134,James,Milner,5,22.66
-2018/19,134,James,Milner,5,32.32
-2019/20,134,James,Milner,5,16.3
-2020/21,134,James,Milner,5,14.05
-2021/22,134,James,Milner,5,10.5
-2022/23,134,James,Milner,5,11.27
-2023/24,134,James,Milner,5,10.68
-2022/23,450,Carlos,Alcaraz Durán,17,20.53
-2023/24,336,Dominik,Szoboszlai,12,30.71
-2019/20,493,Giovani,Lo Celso,18,16.92
-2020/21,493,Giovani,Lo Celso,18,12.4
-2021/22,493,Giovani,Lo Celso,18,3.43
-2023/24,493,Giovani,Lo Celso,18,12.59
-2022/23,518,Flynn,Downes,17,6.75
-2023/24,518,Flynn,Downes,17,0.47
-2019/20,530,Tomáš,Souček,19,16.9
-2020/21,530,Tomáš,Souček,19,47.52
-2021/22,530,Tomáš,Souček,19,35.73
-2022/23,530,Tomáš,Souček,19,32.99
-2023/24,530,Tomáš,Souček,19,37.83
-2018/19,33,Leander,Dendoncker,2,19.28
-2019/20,33,Leander,Dendoncker,2,33.17
-2020/21,33,Leander,Dendoncker,2,26.15
-2021/22,33,Leander,Dendoncker,2,24.41
-2022/23,33,Leander,Dendoncker,2,9.17
-2023/24,33,Leander,Dendoncker,2,5.9
-2012/13,531,James,Ward-Prowse,16,7.4
-2013/14,531,James,Ward-Prowse,16,17.68
-2014/15,531,James,Ward-Prowse,16,23.63
-2015/16,531,James,Ward-Prowse,16,24.21
-2016/17,531,James,Ward-Prowse,16,29.25
-2017/18,531,James,Ward-Prowse,16,27.44
-2018/19,531,James,Ward-Prowse,16,31.32
-2019/20,531,James,Ward-Prowse,16,38.56
-2020/21,531,James,Ward-Prowse,16,51.22
-2021/22,531,James,Ward-Prowse,16,51.73
-2022/23,531,James,Ward-Prowse,16,46.57
-2023/24,531,James,Ward-Prowse,16,48.09
-2023/24,525,Mohammed,Kudus,19,44.72
-2009/10,243,Tom,Cairney,9,10.46
-2018/19,243,Tom,Cairney,9,22.61
-2020/21,243,Tom,Cairney,9,10.04
-2022/23,243,Tom,Cairney,9,15.79
-2023/24,243,Tom,Cairney,9,22.61
-2023/24,519,George,Earthy,19,3.08
-2021/22,492,Dejan,Kulusevski,18,30.87
-2022/23,492,Dejan,Kulusevski,18,32.65
-2023/24,492,Dejan,Kulusevski,18,41.47
-2023/24,323,Ryan,Gravenberch,12,14.21
-2022/23,451,Samuel,Amo-Ameyaw,17,0.62
-2022/23,647,Kaden,Rodney,7,0.47
-2023/24,647,Kaden,Rodney,7,0.47
-2022/23,121,Julio,Enciso,5,19.73
-2023/24,121,Julio,Enciso,5,7.77
-2022/23,651,Orel,Mangala,8,16.9
-2023/24,651,Orel,Mangala,8,15.09
-2020/21,137,Jakub,Moder,5,7.2
-2021/22,137,Jakub,Moder,5,19.01
-2022/23,137,Jakub,Moder,5,0.47
-2023/24,137,Jakub,Moder,5,6.94
-2013/14,309,Harry,Winks,11,0.47
-2014/15,309,Harry,Winks,11,0.47
-2015/16,309,Harry,Winks,11,0.47
-2016/17,309,Harry,Winks,11,8.88
-2017/18,309,Harry,Winks,11,8.87
-2018/19,309,Harry,Winks,11,16.96
-2019/20,309,Harry,Winks,11,17.21
-2020/21,309,Harry,Winks,11,8.42
-2021/22,309,Harry,Winks,11,12.04
-2022/23,309,Harry,Winks,11,0.47
-2016/17,490,Pierre-Emile,Højbjerg,18,13.3
-2017/18,490,Pierre-Emile,Højbjerg,18,13.81
-2018/19,490,Pierre-Emile,Højbjerg,18,29.46
-2019/20,490,Pierre-Emile,Højbjerg,18,25.3
-2020/21,490,Pierre-Emile,Højbjerg,18,33.94
-2021/22,490,Pierre-Emile,Højbjerg,18,32.86
-2022/23,490,Pierre-Emile,Højbjerg,18,40.19
-2023/24,490,Pierre-Emile,Højbjerg,18,12.6
-2022/23,527,Lucas,Tolentino Coelho de Lima,19,30.91
-2023/24,527,Lucas,Tolentino Coelho de Lima,19,36.28
-2019/20,31,Emiliano,Buendía Stati,2,30.07
-2021/22,31,Emiliano,Buendía Stati,2,34.57
-2022/23,31,Emiliano,Buendía Stati,2,37.82
-2023/24,31,Emiliano,Buendía Stati,2,0.47
-2018/19,19,Emile,Smith Rowe,9,0.47
-2019/20,19,Emile,Smith Rowe,9,1.26
-2020/21,19,Emile,Smith Rowe,9,26.07
-2021/22,19,Emile,Smith Rowe,9,39.58
-2022/23,19,Emile,Smith Rowe,9,5.12
-2023/24,19,Emile,Smith Rowe,9,8.09
-2022/23,297,Wanya,Marçal-Madivádua,11,0.47
-2014/15,240,Andreas,Hoelgebaum Pereira,9,0.64
-2015/16,240,Andreas,Hoelgebaum Pereira,9,0.86
-2016/17,240,Andreas,Hoelgebaum Pereira,9,0.47
-2017/18,240,Andreas,Hoelgebaum Pereira,9,0.47
-2018/19,240,Andreas,Hoelgebaum Pereira,9,9.45
-2019/20,240,Andreas,Hoelgebaum Pereira,9,19.19
-2020/21,240,Andreas,Hoelgebaum Pereira,9,0.47
-2021/22,240,Andreas,Hoelgebaum Pereira,9,0.47
-2022/23,240,Andreas,Hoelgebaum Pereira,9,42.3
-2023/24,240,Andreas,Hoelgebaum Pereira,9,39.83
-2013/14,254,Harrison,Reed,9,0.64
-2014/15,254,Harrison,Reed,9,4.97
-2015/16,254,Harrison,Reed,9,0.64
-2016/17,254,Harrison,Reed,9,0.99
-2020/21,254,Harrison,Reed,9,23.38
-2022/23,254,Harrison,Reed,9,34.65
-2023/24,254,Harrison,Reed,9,15.22
-2022/23,491,Brennan,Johnson,18,44.38
-2023/24,491,Brennan,Johnson,18,43.26
-2020/21,485,Alfie,Devine,18,0.47
-2021/22,485,Alfie,Devine,18,0.47
-2022/23,485,Alfie,Devine,18,0.47
-2022/23,452,Joe,Aribo,17,17.97
-2023/24,320,Endo,Wataru,12,16.12
-2022/23,136,Mitoma,Kaoru,5,45.06
-2023/24,136,Mitoma,Kaoru,5,27.27
-2023/24,644,Franco,Umeh-Chibueze,7,0.47
+season_name,id,first_name_midfielder,second_name_midfielder,team,epl_predictions
+2023,5,Simon,Adingra,5,34.20402048731375
+2023,17,Adam,Lallana,17,10.361485875419651
+2023,18,Son,Heung-min,18,70.09806597473347
+2023,9,Harry,Wilson,9,30.245293934782847
+2023,2,Ross,Barkley,2,35.25936543204523
+2023,2,Leon,Bailey,2,48.13003646081416
+2023,18,Manor,Solomon,18,7.373823567311389
+2023,4,Kevin,Schade,4,11.262416348885843
+2023,12,Stefan,Bajčetić Maquieira,12,0.7463041558198664
+2023,19,Jarrod,Bowen,19,60.670129056649245
+2023,1,Declan,Rice,1,56.21568896180457
+2023,1,Bukayo,Saka,1,75.67895612241679
+2023,17,Maxwel,Cornet,17,3.3235442503338977
+2023,11,Oliver,Skipp,11,7.090406133716288
+2023,16,Ryan,Yates,16,18.439710076230703
+2023,4,Yehor,Yarmoliuk,4,8.459362257460624
+2023,5,Carlos,Baleba,5,11.299884220500246
+2023,4,Christian,Nørgaard,4,26.11056687498794
+2023,12,Diogo,Teixeira da Silva,12,36.79959171301658
+2023,19,Edson,Álvarez Velázquez,19,20.43708674043995
+2023,1,Martin,Ødegaard,1,62.654657698039586
+2023,1,Ethan,Nwaneri,1,0.6495794177592767
+2023,20,Tawanda,Chirewa,20,2.03331874238071
+2023,17,Shea,Charles,17,0.4899370342984129
+2023,5,Benicio,Baker-Boaitey,5,0.9274633824532138
+2023,4,Frank,Onyeka,4,14.037492545955935
+2023,12,Mohamed,Salah,12,72.87348423291375
+2023,18,Pape Matar,Sarr,18,28.142115951660568
+2023,9,Reiss,Nelson,9,4.206650213638401
+2023,9,Saša,Lukić,9,15.164535544639163
+2023,12,Bobby,Clark,12,1.4282584243705705
+2023,12,Alexis,Mac Allister,12,36.58970936403212
+2023,11,Facundo,Buonanotte,11,17.89373064334204
+2023,4,Myles,Peart-Harris,4,0.6495794177592767
+2023,4,Ryan,Trevitt,4,0.4899370342984129
+2023,6,Cesare,Casadei,6,0.9036691271417142
+2023,15,Isaac,Hayden,15,0.4899370342984129
+2023,14,Bruno,Borges Fernandes,14,56.44267007335601
+2023,14,Alejandro,Garnacho,14,44.74001379108841
+2023,4,Mikkel,Damsgaard,4,14.033572929982894
+2023,7,David,Ozoh,7,1.662003120040722
+2023,7,Jefferson,Lerma Solís,7,22.642841345529572
+2023,6,Pedro,Lomba Neto,6,29.025502983609663
+2023,20,Gonçalo Manuel,Ganchinho Guedes,20,0.4899370342984129
+2023,3,Philip,Billing,3,20.749766650353855
+2023,3,David,Brooks,3,8.03414306726015
+2023,3,Ryan,Christie,3,33.90074679581544
+2023,3,Alex,Scott,3,13.574319285913628
+2023,1,Jorge Luiz,Frello Filho,1,12.284940208895042
+2023,7,Jesurun,Rak-Sakyi,7,2.2642641277296183
+2023,15,Anthony,Gordon,15,60.8049695685524
+2023,16,Danilo,dos Santos de Oliveira,16,22.009272698788802
+2023,14,Hannibal,Mejbri,14,3.464101007837058
+2023,6,Omari,Kellyman,6,0.9036691271417142
+2023,15,Sandro,Tonali,15,6.257658554942864
+2023,14,Antony Matheus,dos Santos,14,15.284206822289963
+2023,15,Joelinton Cássio,Apolinário de Lira,15,17.64891367262424
+2023,10,Kalvin,Phillips,10,4.152128432321935
+2023,9,Adama,Traoré,9,10.91444020523123
+2023,3,Jaidon,Anthony,3,1.662003120040722
+2023,3,Dango,Ouattara,3,19.005452925071094
+2023,3,Tyler,Adams,3,1.662003120040722
+2023,2,John,McGinn,2,40.55236781108171
+2023,20,Daniel,Castelo Podence,20,0.4899370342984129
+2023,14,Amad,Diallo,14,8.597721947132518
+2023,15,Jacob,Murphy,15,27.71103148239909
+2023,14,Christian,Eriksen,14,17.06994822550993
+2023,7,Eberechi,Eze,7,46.50662406907067
+2023,5,Yasin,Ayari,5,0.4899370342984129
+2023,8,Jenson,Metcalfe,8,0.4899370342984129
+2023,18,Mikey,Moore,18,0.6495794177592767
+2023,9,Josh,King,9,0.4899370342984129
+2023,13,Phil,Foden,13,80.7125563281531
+2023,15,Garang,Kuol,15,0.4899370342984129
+2023,13,Rodrigo 'Rodri',Hernandez,13,57.418520398782256
+2023,7,Jeffrey,Schlupp,7,20.552987196692374
+2023,3,Lewis,Cook,3,26.057066164025816
+2023,3,Justin,Kluivert,3,32.5288761619514
+2023,1,Fábio,Ferreira Vieira,1,8.378363126832289
+2023,13,Jack,Grealish,13,16.575145753362612
+2023,17,Lesley,Ugochukwu,17,5.472708561076633
+2023,6,Noni,Madueke,6,24.28581249239703
+2023,6,Carney,Chukwuemeka,6,6.297183528078973
+2023,14,Toby,Collyer,14,0.4899370342984129
+2023,16,Lewis,O'Brien,16,0.4899370342984129
+2023,15,Lewis,Miley,15,16.697114262453898
+2023,8,Abdoulaye,Doucouré,8,37.29134405798404
+2023,20,Pablo,Sarabia,20,32.573230862021745
+2023,7,Will,Hughes,7,20.138085520151243
+2023,4,Keane,Lewis-Potter,4,24.9156187309333
+2023,3,Hamed,Traorè,3,1.01785201029896
+2023,3,Romain,Faivre,3,1.01785201029896
+2023,4,Bryan,Mbeumo,4,44.672888071425874
+2023,7,Adam,Wharton,7,17.629251353993077
+2023,15,Sean,Longstaff,15,36.15479842239831
+2023,6,Roméo,Lavia,6,0.9036691271417142
+2023,18,Wilson,Odobert,18,28.153552514138962
+2023,6,Ângelo Gabriel,Borges Damaceno,6,0.4899370342984129
+2023,6,Mykhailo,Mudryk,6,28.528161553400544
+2023,1,Raheem,Sterling,1,41.463924015158895
+2023,11,Jordan,Ayew,11,36.55870043465186
+2023,16,Alex,Mighten,16,0.4899370342984129
+2023,14,Facundo,Pellistri Rebollo,14,3.491875051866299
+2023,2,Amadou,Onana,2,23.07050406483908
+2023,2,Jaden,Philogene,2,0.6495794177592767
+2023,4,Vitaly,Janelt,4,31.026444044052255
+2023,3,Luis,Sinisterra,3,13.808218733127909
+2023,2,Youri,Tielemans,2,23.70096434271686
+2023,2,Boubacar,Kamara,2,13.815941560511908
+2023,1,Myles,Lewis-Skelly,1,0.4899370342984129
+2023,4,Mathias,Jensen,4,32.41996417865049
+2023,8,Tim,Iroegbunam,8,1.662003120040722
+2023,20,Luke,Cundle,20,0.4899370342984129
+2023,15,Miguel,Almirón Rejala,15,25.07597613610164
+2023,14,Marcus,Rashford,14,35.94164392869078
+2023,16,Callum,Hudson-Odoi,16,35.75228399790381
+2023,15,Joe,Willock,15,6.859742845436327
+2023,13,Jérémy,Doku,13,31.66351776305616
+2023,7,Cheick,Doucouré,7,8.987001958554945
+2023,6,Andrey,Nascimento dos Santos,6,0.6495794177592767
+2023,9,Sander,Berge,9,24.163882317410884
+2023,14,Kobbie,Mainoo,14,26.151988418946765
+2023,8,Jack,Harrison,8,31.422296600122273
+2023,8,Dwight,McNeil,8,44.094432039884765
+2023,3,Marcus,Tavernier,3,30.612287864315903
+2023,4,Yunus Emre,Konak,4,0.4899370342984129
+2023,2,Morgan,Rogers,2,13.480182053214945
+2023,20,Mario,Lemina,20,31.575199793872898
+2023,6,Jadon,Sancho,6,0.9036691271417142
+2023,15,Harvey,Barnes,15,17.50798671864738
+2023,13,Kevin,De Bruyne,13,33.40929919052228
+2023,16,Elliot,Anderson,16,14.20816863162489
+2023,7,Naouirou,Ahamada,7,4.2151220585951465
+2023,6,Moisés,Caicedo Corozo,6,27.19104869954251
+2023,16,Morgan,Gibbs-White,16,45.18479677996388
+2023,14,Mason,Mount,14,7.144067918455418
+2023,20,Enso,González,20,0.6495794177592767
+2023,1,Gabriel,Martinelli Silva,1,38.8913993069035
+2023,20,João Victor,Gomes da Silva,20,25.527474919907018
+2023,17,Ben,Brereton Díaz,17,21.271454025014542
+2023,3,Antoine,Semenyo,3,38.99595583820306
+2023,7,Matheus,França de Oliveira,7,5.93043760780162
+2023,4,Ethan,Brierley,4,0.4899370342984129
+2023,17,Ryan,Fraser,17,0.4899370342984129
+2023,16,Josh,Bowler,16,0.4899370342984129
+2023,13,Mateo,Kovačić,13,17.627821123548777
+2023,16,Anthony,Elanga,16,38.93237090427403
+2023,14,Carlos Henrique,Casimiro,14,22.505507071641336
+2023,6,Christopher,Nkunku,6,10.250115822952385
+2023,6,Enzo,Fernández,6,29.551123446595106
+2023,5,Cameron,Peupion,5,0.4899370342984129
+2023,10,Chiedozie,Ogbene,10,29.27252039007122
+2023,7,Malcolm,Ebiowei,7,0.4899370342984129
+2023,13,Bernardo,Veiga de Carvalho e Silva,13,48.50974665853956
+2023,13,Matheus Luiz,Nunes,13,11.334247636997876
+2023,14,Scott,McTominay,14,32.16863385666947
+2023,20,Hwang,Hee-chan,20,41.93291709636643
+2023,20,Tommy,Doyle,20,12.856221238053681
+2023,8,Idrissa,Gueye,8,25.085455063386615
+2023,2,Jacob,Ramsey,2,12.089717165298195
+2023,8,James,Garner,8,28.829196654015988
+2023,20,Joe,Hodge,20,0.4899370342984129
+2023,4,Josh,Dasilva,4,0.770098411131366
+2023,15,Bruno,Guimarães Rodriguez Moura,15,52.850515910555075
+2023,16,Nicolás,Domínguez,16,21.966495845920743
+2023,13,James,McAtee,13,25.553286036762167
+2023,13,Oscar,Bobb,13,9.518807519928417
+2023,15,Joe,White,15,0.6495794177592767
+2023,6,Cole,Palmer,6,81.85577511488499
+2023,5,Jeremy,Sarmiento Morante,5,0.4899370342984129
+2023,6,Conor,Gallagher,6,42.967392172303086
+2023,5,Jack,Hinshelwood,5,14.963906450958051
+2023,5,Solly,March,5,13.852717484285742
+2023,12,Curtis,Jones,12,14.034197981868
+2023,16,Ibrahim,Sangaré,16,8.951296972337698
+2023,12,James,McConnell,12,0.6495794177592767
+2023,12,Ben,Doak,12,0.6495794177592767
+2023,2,Moussa,Diaby,2,46.49784342521986
+2023,1,Thomas,Partey,1,7.840018259201928
+2023,20,Francisco Jorge,Tomás Oliveira,20,0.4899370342984129
+2023,18,James,Maddison,18,40.07383563990152
+2023,18,Rodrigo,Bentancur,18,11.263259817991258
+2023,12,Harvey,Elliott,12,29.109990786072004
+2023,5,Pascal,Groß,5,55.43612235457067
+2023,5,Mahmoud,Dahoud,5,6.054422226662451
+2023,12,Luis,Díaz,12,47.10395003190349
+2023,18,Yves,Bissouma,18,15.323590295001926
+2023,9,Alex,Iwobi,9,35.32364702802165
+2023,20,Jean-Ricner,Bellegarde,20,14.539353472763464
+2023,18,Timo,Werner,18,15.583133135026902
+2023,11,Bobby,De Cordova-Reid,11,29.28067384283152
+2023,1,Leandro,Trossard,1,45.361962579008036
+2023,2,Lewis,Dobbin,2,6.112267597775934
+2023,20,Boubacar,Traoré,20,8.271462052938084
+2023,9,Luke,Harris,9,1.01785201029896
+2023,18,Bryan,Gil Salvatierra,18,3.69939175972089
+2023,5,Billy,Gilmour,5,18.96088400267138
+2023,5,Kacper,Kozłowski,5,0.4899370342984129
+2023,5,James,Milner,5,10.29933871996943
+2023,12,Dominik,Szoboszlai,12,32.61367642661431
+2023,18,Giovani,Lo Celso,18,13.743205327771731
+2023,17,Flynn,Downes,17,0.4899370342984129
+2023,19,Tomáš,Souček,19,37.68536892643853
+2023,2,Leander,Dendoncker,2,6.020996336677228
+2023,16,James,Ward-Prowse,16,49.14134740419398
+2023,19,Mohammed,Kudus,19,44.68800760874447
+2023,9,Tom,Cairney,9,22.299848287052665
+2023,19,George,Earthy,19,2.340104362903278
+2023,18,Dejan,Kulusevski,18,44.60474621190218
+2023,12,Ryan,Gravenberch,12,15.297158623032148
+2023,7,Kaden,Rodney,7,0.4899370342984129
+2023,5,Julio,Enciso,5,7.482325167704645
+2023,8,Orel,Mangala,8,13.960256766796642
+2023,5,Jakub,Moder,5,7.431841199647728
+2023,18,Pierre-Emile,Højbjerg,18,12.896199475140596
+2023,19,Lucas,Tolentino Coelho de Lima,19,37.19471998967756
+2023,2,Emiliano,Buendía Stati,2,0.4899370342984129
+2023,9,Emile,Smith Rowe,9,8.090705973712396
+2023,9,Andreas,Hoelgebaum Pereira,9,41.506330633243074
+2023,9,Harrison,Reed,9,14.907048983030165
+2023,18,Brennan,Johnson,18,42.77922938050384
+2023,12,Endo,Wataru,12,15.314157033401901
+2023,5,Mitoma,Kaoru,5,25.95712774948161
+2023,7,Franco,Umeh-Chibueze,7,0.4899370342984129
