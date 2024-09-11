@@ -1,0 +1,9 @@
+from a_001_goalkeepers_create_predictions import create_goalkeepers_prediction
+from a_001_defenders_create_predictions import create_defenders_prediction
+from a_001_midfielders_create_predictions import create_midfielders_prediction
+from a_001_forwards_create_predictions import create_forwards_prediction
+
+create_goalkeepers_prediction()
+create_defenders_prediction()
+create_midfielders_prediction()
+create_forwards_prediction()
