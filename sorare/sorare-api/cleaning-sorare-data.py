@@ -36,8 +36,11 @@ grouped_df = df.groupby('Display_Name').agg(agg_dict).reset_index()
 print(f"length Current Club before filtering by EPL teams: {len(grouped_df['Current_Club'].unique())}")
 print('-' * 60)
 
-grouped_df['So5_per_minute_8'] = grouped_df['So_5_Scores_8'] / grouped_df['minsPlayed_8']
-grouped_df['So5_per_minute_7'] = grouped_df['So_5_Scores_7'] / grouped_df['minsPlayed_7']
+
+
+
+grouped_df['So5_per_minute_8'] = (grouped_df['So_5_Scores_8'] / grouped_df['minsPlayed_8'])
+grouped_df['So5_per_minute_7'] = (grouped_df['So_5_Scores_7'] / grouped_df['minsPlayed_7'])
 
 action_columns = [
     'assistPenaltyWon',
@@ -57,11 +60,18 @@ action_columns = [
 idx = [6,7,8]
 
 grouped_df['Total_Actions'] = 0
+grouped_df['Total_Minutes'] = 0
 for col in action_columns:
     grouped_df['Total_Actions'] += grouped_df[[f'{col}_{idx[0]}', f'{col}_{idx[1]}', f'{col}_{idx[2]}']].sum(axis=1) 
 
-grouped_df['Total_Minutes'] = grouped_df[['minsPlayed_6', 'minsPlayed_7', 'minsPlayed_8']].sum(axis=1)
-grouped_df['Actions_Per_Minute'] = round(grouped_df['Total_Actions'] / grouped_df['Total_Minutes'], 6)
+grouped_df['Total_Minutes'] = grouped_df[['minsPlayed_6', 'minsPlayed_7', 'minsPlayed_8']].sum(axis=1) / (90 * 3)
+
+grouped_df['Actions_Per_Minute'] = round(grouped_df['Total_Actions'] / grouped_df[['minsPlayed_6', 'minsPlayed_7', 'minsPlayed_8']].sum(axis=1), 6)
+
+
+
+
+grouped_df = grouped_df.drop(columns=['Total_Minutes'])
 
 grouped_df['Points_Per_Action'] = np.where(
     (grouped_df[['So_5_Scores_6', 'So_5_Scores_7', 'So_5_Scores_8']].sum(axis=1) > 0) & 
@@ -76,6 +86,7 @@ grouped_df['Average_Minutes_Played'] = df[min_columns].mean(axis=1)
 so_5_columns = [f'{col_prefixes[0]}_{index}' for index in range(9)]
 grouped_df['So_5_Points_Average'] = grouped_df[so_5_columns].mean(axis=1)
 grouped_df = grouped_df.fillna(0.0)
+
 # Getting rid of non-EPL clubs
 sorare_filtered_df = grouped_df[grouped_df['Current_Club'].isin(english_prem_teams)]
 
@@ -88,5 +99,3 @@ print(sorare_filtered_df["Current_Club"].unique())
 sorare_filtered_df.to_csv('sorare/sorare_data/large_cleaned_sorare_data.csv', index=False)
 grouped_df.to_csv('sorare/sorare_data/large_grouped_sorare_data.csv', index=False)
 print(grouped_df.shape)
-
-#700 450
