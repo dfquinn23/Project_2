@@ -13,10 +13,19 @@ headers = {
 
 
 def get_url():
+    """
+    returns the query url
+    """
     return url
 def get_header():
+    """
+    returns header data for query
+    """
     return headers
 def get_query(cursor):
+    """
+    Takes in cursor, and returns the next query to be made
+    """
     return f"""
             {{ football {{
                     allCards(

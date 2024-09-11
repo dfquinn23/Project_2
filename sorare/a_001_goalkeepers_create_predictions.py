@@ -16,7 +16,15 @@ from utils_data_structures import col_prefixes
 
 
 def create_goalkeepers_prediction():
+    """
+    creates dataframe for epl teams
+    filters for goalkeepers
+    splits data
 
+    loads saved goalkeeper models
+
+    saves predictions
+    """
     epl_teams_ = pd.read_csv('sorare/sorare_data/large_cleaned_sorare_data.csv')
 
     epl_teams_ = epl_teams_.fillna(0.0)
