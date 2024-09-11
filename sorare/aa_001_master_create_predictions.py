@@ -3,6 +3,8 @@ from a_001_defenders_create_predictions import create_defenders_prediction
 from a_001_midfielders_create_predictions import create_midfielders_prediction
 from a_001_forwards_create_predictions import create_forwards_prediction
 
+# Runs  create predictions on all field players for the english premier league
+
 create_goalkeepers_prediction()
 create_defenders_prediction()
 create_midfielders_prediction()

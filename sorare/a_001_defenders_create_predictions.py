@@ -15,6 +15,15 @@ from utils_models import load_models
 from utils_data_structures import col_prefixes
 
 def create_defenders_prediction():
+    """
+    creates dataframe for epl teams
+    filters for defenders
+    splits data
+
+    loads saved defender models
+
+    saves predictions
+    """
 
     epl_teams_ = pd.read_csv('sorare/sorare_data/large_cleaned_sorare_data.csv')
 
