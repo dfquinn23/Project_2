@@ -99,10 +99,11 @@ This project requires Python and the following Python libraries installed:
 	~ Build model, test, and retest until it produced realistic, defensible results
 
 ## Market Analysis
-The project has to be automated
+The project has to be automated.
 3-week project
-SoRare's Daily volume is around $500,000 / per day so we can assume people are willing to spend money in the fantasy league space
-[(Salaries X 5) / 20] + $1,000 ($20K in company overhead annually, divided by 20 – we run a tight ship.)
+SoRare's Daily volume is around $500,000 / per day so we can assume people are willing to spend money in the fantasy league space.
+While the Fantasy Premier League has over 10 million users.
+[(Salaries X 5) / 20] + $1,000 ($20K in company overhead annually, divided by 20)
 Add in a profit margin of 25%
 We need to do a cost-benefit analysis for the client:
 What problem are we solving?
