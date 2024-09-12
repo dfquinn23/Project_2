@@ -20,6 +20,14 @@ def timer(func):
 
 # @timer
 def fetch_market_data():
+    """
+    This function will query the sorare API for the query data found in utils/api_data.py
+    until it has pulled all the available data.
+
+    with each page query, it cleans the data and stored each card in the market_data array
+
+    Once the query fully completes, it returns the market_data array
+    """
     market_data = []
     has_next_page = True
     cursor = ""
@@ -60,6 +68,11 @@ def fetch_market_data():
 
 
 def extract_hisotry(price_history):
+    """
+    called on the ownership column, filters the price action for the card by price
+    creates columns for each price
+    Work in progress.
+    """
     price_dict = {}
     if(len(price_history) > 0):
         for index, price in enumerate(price_history):
@@ -69,6 +82,11 @@ def extract_hisotry(price_history):
     return pd.Series(price_dict)
 
 def filter_dataframe(df):
+    """
+    Filters out all clubs where their 'Domestic_League does not equal Premier League
+
+    This includes ALL premier leagues across the world.
+    """
     # df_filtered = df[df['Rarity'].isin(['limited', 'rare', 'super_rare', 'unique'])]
     df_filtered = df[df['Domestic_League'] == 'Premier League']
     df_filtered = df_filtered.drop(columns=['Active_Injuries', 'Active_Suspensions'])
@@ -78,6 +96,9 @@ def filter_dataframe(df):
 ## Internal functions
 
 def process_card_data(card):
+    """
+    param: player card data that will be filtered and organize, then returned as a completed card for the prediction models
+    """
     league, club, domesticLeagueRanking = process_league_club(card['player']['activeClub'])
     processing_card =  {
         'Rarity': card['rarity'],
@@ -112,6 +133,10 @@ def process_card_data(card):
     return processing_card
 
 def process_league_club(active_club):
+    """"
+    Takes in the active_club of the returned data and returns the league, club and domestic league 
+    the player card belongs to
+    """
     
     try:
         league = active_club['domesticLeague']['name']
@@ -128,6 +153,9 @@ def process_league_club(active_club):
     return league, club, domesticLeagueRanking
 
 def process_scores(scores):
+    """
+    Processes so 5 scores
+    """
     score_list = []
     for index in range(0, len(scores)):
         try:
@@ -138,6 +166,9 @@ def process_scores(scores):
 
 
 def process_ownership_history(price_history):
+    """
+    Takes in the ownership history and returns array with from and price data
+    """
     if price_history is not None and len(price_history) > 0:
         return [
             {
@@ -150,6 +181,9 @@ def process_ownership_history(price_history):
         return []
 
 def process_number_of_owners(price_history):
+    """
+    returns the number of owners
+    """
     if price_history is not None and len(price_history) > 0:
         # print(price_history)
         # print(len(price_history))
@@ -157,6 +191,9 @@ def process_number_of_owners(price_history):
     else:
         return 0
 def process_average_price(price_history):
+    """"
+    returns the average traded price for the card
+    """
     # print(price_history)
     if price_history is not None and len(price_history) > 0:
         total_price = 0

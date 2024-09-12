@@ -49,46 +49,54 @@ Wed, 9/11/2024:  Project Presentation.
 
 ## Dependencies
 This project requires Python and the following Python libraries installed:
-	•	import pandas
- 
-	•	import sklearn libraries
- 
-	•	import time
- 
-	•	import requests
- 
-	•	import os
- 
-	•	from dotenv import os
- 
-	•	from dotenv import load_dotenv
- 
-	•	from pathlib import Path
- 
-	•	import matplotlib.pyplot
- 
-	•	import hvplot.pandas
- 
-	•	import numpy
- 
-	•	import json
- 
-	•	from datetime import datetime, timedelta
- 
+	•	import pandas 
+	•	import sklearn libraries 
+	•	import time 
+	•	import requests 
+	•	import os 
+	•	from dotenv import os 
+	•	from dotenv import load_dotenv 
+	•	from pathlib import Path 
+	•	import matplotlib.pyplot 
+	•	import hvplot.pandas 
+	•	import numpy 
+	•	import json 
+	•	from datetime import datetime, timedelta 
 	•	import requests
 
 ## Directory Structure (abbreviated), Installation, and Usage
-	TBD
+	SoRare Data + fantasy.premierleague.com data ->
+	
+	Import raw data into our individual notebooks  ->
+	
+	Data cleaned and processed and dropped into models ->
+	
+	Model evaluation ->
+	
+	Generate output ->
+	
+	Dataframes created ->
+	
+	Export to csv ->
+	
+	Added to prediction model ->
+	
+	Players ranked by position ->
+	
+	"Ideal player roster" generated
 
 ## Project Structure
-	TBD
+	~ Project concept was agreed upon by all team members after ensuring data sets were available
 
-## Installation and Usage
-	TBD
+	~ Each team membert was assigned either a player position or a dataset with which to work
 
-## Results and Analysis
-	TBD
- 
+	~ Worked independently to determine best approaches to exploring the data and conceptualizing how best to manipulate it to most relaibly ascetrain the best ways to identify the "best" player ranks
+
+	~ The team then reviewed each other's work and chose key metyrics that worked across all positions and data sources (total_points)
+
+	~ Build model, test, and retest until it produced realistic, defensible results
+
+
 ## Contributors
 	•	Matt Cannon
 	•	David Kaplan

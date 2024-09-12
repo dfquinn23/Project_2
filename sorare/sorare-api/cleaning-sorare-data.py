@@ -6,7 +6,7 @@ import pandas as pd
 import numpy as np
 from utils_data_structures import english_prem_teams, col_prefixes
 
-df = pd.read_csv('sorare/sorare_data/test_sorare_market_data.csv')
+df = pd.read_csv('sorare/sorare_data/sorare_market_data.csv')
 
 # creating a groupby, but need to get ALL columns, to do that, need to create a list of columns with the appended index
 agg_dict = {}
@@ -96,6 +96,6 @@ print(f"Clubs in current Dataframe:")
 print(sorare_filtered_df["Current_Club"].unique())
 
 # save cleaned df
-sorare_filtered_df.to_csv('sorare/sorare_data/large_cleaned_sorare_data.csv', index=False)
-grouped_df.to_csv('sorare/sorare_data/large_grouped_sorare_data.csv', index=False)
+sorare_filtered_df.to_csv('sorare/sorare_data/small_test_cleaned_sorare_data.csv', index=False)
+grouped_df.to_csv('sorare/sorare_data/small_test_grouped_sorare_data.csv', index=False)
 print(grouped_df.shape)
