@@ -1,6 +1,6 @@
 # Project 2 - AI Model for Fantasy Soccer League Draft and Roster Management
 
-## LINK TO gOOGLE SLIDES PRESENTATION:  https://docs.google.com/presentation/d/1PAEHquxp2GeMy6d0hCT23TLt_k3aoCjwxsk3bOBYEqc/edit#slide=id.g2fe0d760e43_1_75
+# LINK TO GOOGLE SLIDES PRESENTATION:  https://docs.google.com/presentation/d/1PAEHquxp2GeMy6d0hCT23TLt_k3aoCjwxsk3bOBYEqc/edit#slide=id.g2fe0d760e43_1_75
 
 ## Project Overview
 
