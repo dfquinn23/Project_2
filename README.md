@@ -1,5 +1,7 @@
 # Project 2 - AI Model for Fantasy Soccer League Draft and Roster Management
 
+## LINK TO gOOGLE SLIDES PRESENTATION:  https://docs.google.com/presentation/d/1PAEHquxp2GeMy6d0hCT23TLt_k3aoCjwxsk3bOBYEqc/edit#slide=id.g2fe0d760e43_1_75
+
 ## Project Overview
 
 Data is the lifeblood of the fantasy sports industry. Unfortunately, when everyone is looking at the same data in the same way, there is little competitive advantage to be gained. In this project, we seek to create a AI model that gathers the relevant publicly-available statistics on players in the European Premier League to create a program that assists fantasy team owners with the creation and season-ling management of their teams.
