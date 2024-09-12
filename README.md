@@ -98,6 +98,19 @@ This project requires Python and the following Python libraries installed:
 
 	~ Build model, test, and retest until it produced realistic, defensible results
 
+## Market Analysis
+The project has to be automated
+3-week project
+SoRare's Daily volume is around $500,000 / per day so we can assume people are willing to spend money in the fantasy league space
+[(Salaries X 5) / 20] + $1,000 ($20K in company overhead annually, divided by 20 – we run a tight ship.)
+Add in a profit margin of 25%
+We need to do a cost-benefit analysis for the client:
+What problem are we solving?
+How does our solution enable more precise decision-making for our client?
+We should provide an idea/s on how improved decision-making leads to better business outcomes, vis-à-vis our “product.
+Can we justify our total fee against what the ultimate value is for the client?
+
+
 
 ## Contributors
 	•	Matt Cannon
